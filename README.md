@@ -611,3 +611,42 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![more handpainted rocks 미리보기](previews/more-handpainted-rocks.jpg)
 - 파일: `more-handpainted-rocks.zip` — 릴리스 v8.3 첨부, 34.4MB plain split 3조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/more-handpainted-rocks
+
+## 2026-10-28 추가 팩 6차 (릴리스 v8.4)
+
+모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part1+part2+... <팩명>.zip`).
+
+### 3D Castle / Dungeon Tileset Extended
+![3D Castle / Dungeon Tileset Extended 미리보기](previews/3d-castle-dungeon-tileset-extended.jpg)
+- 파일: `3d-castle-dungeon-tileset-extended.zip` — 릴리스 v8.4 첨부, 21.9MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-castle-dungeon-tileset-extended
+
+### Free 3D Castle / Dungeon Tileset
+![Free 3D Castle / Dungeon Tileset 미리보기](previews/free-3d-castle-dungeon-tileset.jpg)
+- 파일: `free-3d-castle-dungeon-tileset.zip` — 릴리스 v8.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-castle-dungeon-tileset
+
+### Robot Character
+![Robot Character 미리보기](previews/robot-character.jpg)
+- 파일: `robot-character.zip` — 릴리스 v8.4 첨부, 70MB plain split 5조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/robot-character
+
+### rubberduck
+![rubberduck 미리보기](previews/rubberduck.jpg)
+- 파일: `rubberduck.zip` — 릴리스 v8.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/rubberduck
+
+### Sci-Fi container
+![Sci-Fi container 미리보기](previews/sci-fi-container.jpg)
+- 파일: `sci-fi-container.zip` (원본 3개 아카이브 병합: container_highpoly.blend.zip, container_textures_high_res.zip, sci-fi_container_01.zip — 각 하위폴더로 보존) — 릴리스 v8.4 첨부, 129MB plain split 9조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-container
+
+### shadow twins asset pack
+![shadow twins asset pack 미리보기](previews/shadow-twins-asset-pack.jpg)
+- 파일: `shadow-twins-asset-pack.zip` (BLEND 1개; bare blend를 zip으로 재압축) — 릴리스 v8.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/shadow-twins-asset-pack
+
+### simple 3d crystals (unwrapped, simple texture)
+![simple 3d crystals 미리보기](previews/simple-3d-crystals-unwrapped-simple-texture.jpg)
+- 파일: `simple-3d-crystals-unwrapped-simple-texture.zip` — 릴리스 v8.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-3d-crystals-unwrapped-simple-texture
