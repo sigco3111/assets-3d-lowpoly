@@ -1,0 +1,34 @@
+# assets-3d-lowpoly
+
+3D 로우폴리 모델. glTF(GLB)·OBJ 등 게임엔진/웹에서 바로 쓸 수 있는 형식의 CC0 팩.
+
+## 수록 팩
+
+### Fantasy Town Kit 1.0
+![Fantasy Town Kit 미리보기](previews/fantasy-town-kit-1.0.png)
+- 파일: `fantasy-town-kit-1.0.zip` (모델 153종 × GLB/OBJ/DAE/STL + PNG 텍스처)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/fantasy-town-kit
+
+### Nature Kit 2.1
+![Nature Kit 미리보기](previews/kenney_natureKit_2.1.png)
+- 파일: `kenney_natureKit_2.1.zip` (모델 329종 × GLB/OBJ/DAE/STL + PNG 텍스처)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/nature-kit
+
+## 다운로드
+
+zip은 릴리스에 첨부되어 있습니다 (저장소 파일 크기 제한 때문이 아니라 웹 업로드 방식의 한계로 릴리스 방식 사용):
+[최신 릴리스에서 받기](https://github.com/sigco3111/assets-3d-lowpoly/releases/latest)
+
+## 사용 방법
+
+1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
+2. CC0이므로 귀속 표기 없이 사용 가능 (표기 시 "Kenney (kenney.nl)")
+
+## 출처와 라이선스 기록
+
+- 원본 라이선스 전문: 각 zip 안에 제작자가 배포한 License.txt 원본이 그대로 보존되어 있습니다 (법적 효력은 이 원본 기준).
+- 이 저장소 루트의 LICENSE.md는 원본을 대체하지 않는 수집자 요약본입니다.
+- 원본 배포 페이지의 라이선스 조건(CC0)과 동봉된 License.txt를 확인했습니다.
+- 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
+
+전체 인덱스와 장르 태그: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog)
