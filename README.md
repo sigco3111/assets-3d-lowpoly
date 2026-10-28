@@ -38,7 +38,7 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 
 ## 출처와 라이선스 기록
 
-- 원본 라이선스 전문: 각 zip 안에 제작자가 배포한 License.txt 원본이 그대로 보존되어 있습니다 (법적 효력은 이 원본 기준).
+- 원본 라이선스 전문: 각 zip 안에 제작자가 배포한 License.txt 원본이 그대로 보존되어 있습니다 (법적 효력은 이 원본 기준). 다만 원본에 라이선스 파일이 없는 Quaternius Animated Zombie·Cute Monsters 2개 팩은 공식 팩 페이지의 CC0 표기를 근거로 수집자가 작성한 LICENSE-SOURCE.txt가 대신 동봉되어 있습니다.
 - 이 저장소 루트의 LICENSE.md는 원본을 대체하지 않는 수집자 요약본입니다.
 - Kenney 팩: 원본 배포 페이지의 라이선스 조건(CC0)과 동봉된 License.txt를 확인. 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
 - KayKit 팩: 제작자 공식 GitHub 저장소의 원본 바이트를 그대로 보존했고, 동봉 LICENSE.txt(CC0)를 확인했습니다.
