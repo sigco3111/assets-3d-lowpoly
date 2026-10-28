@@ -44,3 +44,31 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - KayKit 팩: 제작자 공식 GitHub 저장소의 원본 바이트를 그대로 보존했고, 동봉 LICENSE.txt(CC0)를 확인했습니다.
 
 전체 인덱스와 장르 태그: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog)
+
+## 2026-10-28 추가 팩 (릴리스 v2.0)
+
+### Car Kit
+![Car Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/car-kit.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/car-kit.zip) (5MB, 모델 56종: 조립식 차량 GLB/OBJ)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/car-kit
+### Castle Kit 1.0
+![Castle Kit 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/castle-kit.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/castle-kit.zip) (5.6MB, 모델 60종: 성 건물 GLB/OBJ)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/castle-kit
+### Racing Pack
+![Racing Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/racing-pack.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/racing-pack.zip) (1.4MB, 레이싱 차량·트랙 모델)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/racing-pack
+### KayKit Skeletons 1.0
+![KayKit Skeletons 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-skeletons-1.0.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-skeletons-1.0.zip) (29MB 분할, 스켈레톤 캐릭터 4종 glTF/FBX)
+  - 25MB 업로드 제한으로 3개 분할: `.z01`, `.z02`, `.zip`을 같은 폴더에 받은 뒤 `zip -s 0 kaykit-skeletons-1.0.zip --out kaykit-skeletons-1.0-full.zip`으로 합쳐서 사용
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0
+### KayKit City Builder Bits 1.0
+![KayKit City Builder Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-city-builder-bits-1.0.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-city-builder-bits-1.0.zip) (5.8MB, 도시 건물 모델 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0
+### KayKit Space Base Bits 1.0
+![KayKit Space Base Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-space-base-bits-1.0.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-space-base-bits-1.0.zip) (6.2MB, 우주 기지 모델 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Space-Base-Bits-1.0
