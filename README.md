@@ -1,6 +1,6 @@
 # assets-3d-lowpoly
 
-3D 로우폴리 모델. glTF(GLB)·OBJ 등 게임엔진/웹에서 바로 쓸 수 있는 형식의 CC0 팩.
+3D 로우폴리 모델. glTF(GLB)·OBJ 등 게임엔진/웹에서 바로 쓸 수 있는 형식의 CC0·CC-BY 팩. CC-BY 팩은 사용 시 저작자 표기 필요 (각 팩 LICENSE-SOURCE.txt에 원본 저작자·정확한 CC 버전·출처·변경 내역 기록).
 
 ## 수록 팩
 
@@ -660,3 +660,36 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![Voxel Low Poly Hybrid Cave Pack 미리보기](previews/voxel-low-poly-hybrid-cave-pack.jpg)
 - 파일: `voxel-low-poly-hybrid-cave-pack.zip` — 릴리스 v8.5 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/voxel-low-poly-hybrid-cave-pack
+## 2026-10-29 추가 팩 8차 (릴리스 v8.6)
+
+모두 rubberduck (OpenGameArt) 3D 팩, 이번 배치는 CC-BY 계열이라 사용 시 저작자 표기가 필요합니다. 각 팩의 LICENSE-SOURCE.txt(수집자 작성)에 원본 저작자·정확한 CC 버전·출처·변경 내역과 원본 아카이브/파일 SHA-256이 기록되어 있습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### cmvalley lamps reworked
+![cmvalley lamps reworked 미리보기](previews/cmvalley-lamps-reworked.jpg)
+- 파일: `cmvalley-lamps-reworked.zip` — 릴리스 v8.6 첨부, 23.7MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC-BY 4.0 (귀속: rubberduck) / 원본: https://opengameart.org/content/cmvalley-lamps-reworked
+- 내용: cmvalley godot 데모 맵 램프 리워크. 5종 램프 + 경량 변형 (obj/mtl/blend + PBR 텍스처 12종)
+
+### Franck (Cosmos Laundromat) animated game character
+![Franck 미리보기](previews/franck-cosmos-laundromat-animated-game-character.jpg)
+- 파일: `franck-cosmos-laundromat-animated-game-character.zip` — 릴리스 v8.6 첨부, 단일
+- 제작: rubberduck / 라이선스: CC-BY 3.0 (귀속: rubberduck; 원본 모델 Blender Institute, "Cosmos Laundromat", CC-BY) / 원본: https://opengameart.org/content/franck-cosmos-laundromat-animated-game-character
+- 내용: 오픈 무비의 Franck 양 캐릭터 게임용 버전, 리깅+애니메이션 (blend). 원본 License.txt 동봉
+
+### handpainted rock formations
+![handpainted rock formations 미리보기](previews/handpainted-rock-formations.jpg)
+- 파일: `handpainted-rock-formations.zip` — 릴리스 v8.6 첨부, 단일
+- 제작: rubberduck / 라이선스: CC-BY 3.0 (귀속: rubberduck; 원본 OliverMH, BlendSwap 71296, CC-BY 3.0) / 원본: https://opengameart.org/content/handpainted-rock-formations
+- 내용: 핸드페인티드 바위 형상. LOD·콜리전 메시, obj/dae, Godot 파일(.tscn·material) 포함. handpainted-style-rocks/more-handpainted-rocks와 바이트 중복 0건의 별개 팩
+
+### Industrial Extension Pack 2 - factory halls
+![Industrial Extension Pack 2 미리보기](previews/industrial-extension-pack-2-factory-halls.jpg)
+- 파일: `industrial-extension-pack-2-factory-halls.zip` — 릴리스 v8.6 첨부, 단일
+- 제작: rubberduck / 라이선스: 모델 CC0 + 텍스처 CC-BY 3.0 (제작자 README 기준; 본 라이브러리는 CC-BY 3.0으로 표기, 귀속: rubberduck; 텍스처 원본 ideasman42/Campbell Barton) / 원본: https://opengameart.org/content/industrial-extension-pack-2-factory-halls
+- 내용: 공장 홀 2종(외부 전용/내부 포함 변형), empties로 지붕 경사·벽 높이 조절, 두 번째 홀은 array 모디파이어로 반복 지붕 구조 가능. 텍스처 JPG 28개는 seamless-industrial-textures 팩 파일과 바이트 동일(원저작자가 동일 텍스처 사용; 실제 고유 추가는 BLEND+README)
+
+### stone plate pack
+![stone plate pack 미리보기](previews/stone-plate-pack.jpg)
+- 파일: `stone-plate-pack.zip` — 릴리스 v8.6 첨부, 66.9MB plain split 5조각
+- 제작: rubberduck / 라이선스: CC-BY 4.0 (귀속: rubberduck) / 원본: https://opengameart.org/content/stone-plate-pack
+- 내용: 조각한 돌판 6종(1x1·1x2·2x2 각 2개). 고폴리 plates_high.blend 포함(리텍스처용). 원본이 별도 blend 2개로 배포되어 수집자가 zip으로 묶음
