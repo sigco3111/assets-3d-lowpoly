@@ -1117,3 +1117,36 @@ kaylousberg.itch.io 공식 배포 페이지에서 수집한 CC0 원본. Holiday 
 - 파일: `kaykit-character-animations.zip` — 릴리스 v8.13 첨부, 단일
 - 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/kaykit-character-animations
 - 내용: 애니메이션 릭 모델 16종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+## v8.14 — konserwa CC0 3D 모델 5종 (OpenGameArt, 2026-10-29)
+
+OpenGameArt 사용자 konserwa의 CC0 모델. 전부 원본 라이선스 미동봉 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기). 단일 파일 배포분은 수집자가 zip으로 재포장(내용 바이트 동일).
+
+### Low Poly dude
+![Low Poly dude 미리보기](previews/low-poly-dude.png)
+- 파일: `low-poly-dude.zip` — 릴리스 v8.14 첨부, 단일
+- 제작: konserwa / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-dude-0
+- 내용: FBX 1종 + 텍스처 PNG 3; 원본 zip 그대로 내장
+
+### Anime woman
+![Anime woman 미리보기](previews/anime-woman.png)
+- 파일: `anime-woman.zip` — 릴리스 v8.14 첨부, 단일
+- 제작: konserwa / 라이선스: CC0 / 원본: https://opengameart.org/content/anime-woman
+- 내용: BLEND 1종; 수집자 재포장(내용 바이트 동일)
+
+### Lowpoly girl
+![Lowpoly girl 미리보기](previews/lowpoly-girl.jpg)
+- 파일: `lowpoly-girl.zip` — 릴리스 v8.14 첨부, 단일
+- 제작: konserwa / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-girl
+- 내용: BLEND 1종; 수집자 재포장(내용 바이트 동일)
+
+### panzerkampfwagen III
+![panzerkampfwagen III 미리보기](previews/panzerkampfwagen-iii.png)
+- 파일: `panzerkampfwagen-iii.zip` — 릴리스 v8.14 첨부, 단일
+- 제작: konserwa / 라이선스: CC0 / 원본: https://opengameart.org/content/panzerkampfwagen-iii
+- 내용: BLEND·3DS 1종씩; 수집자 재포장(내용 바이트 동일)
+
+### penguin
+![penguin 미리보기](previews/penguin-1.png)
+- 파일: `penguin-1.zip` — 릴리스 v8.14 첨부, 단일
+- 제작: konserwa / 라이선스: CC0 / 원본: https://opengameart.org/content/penguin-1
+- 내용: 원본 7z 그대로 내장
