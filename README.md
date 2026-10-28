@@ -533,3 +533,37 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![Free 3D-Tileset-1 미리보기](previews/free-3d-tileset-1.jpg)
 - 파일: `free-3d-tileset-1.zip` (BLEND 1개; bare blend를 zip으로 재압축) — 릴리스 v8.1 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-tileset-1
+
+## 2026-10-28 추가 팩 4차 (릴리스 v8.2)
+
+모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part1+part2+... <팩명>.zip`).
+
+### Free 3D-Tileset-2 / Free 3D-Tileset-3 + Automapping Script
+![Free 3D-Tileset-2 미리보기](previews/free-3d-tileset-2.jpg)
+- 파일: `free-3d-tileset-2.zip`, `free-3d-tileset-3-automapping-script.zip` (각 BLEND 1개; bare blend를 zip으로 재압축) — 릴리스 v8.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-tileset-2 , https://opengameart.org/content/free-3d-tileset-3-automapping-script
+
+### Free Mine Assets Pack
+![Free Mine Assets Pack 미리보기](previews/free-mine-assets-pack.jpg)
+- 파일: `free-mine-assets-pack.zip` — 릴리스 v8.2 첨부, 15.9MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-mine-assets-pack
+
+### Free Mug Pack #1
+![Free Mug Pack #1 미리보기](previews/free-mug-pack-1.jpg)
+- 파일: `free-mug-pack-1.zip` — 릴리스 v8.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-mug-pack-1
+
+### Free Plant Pack
+![Free Plant Pack 미리보기](previews/free-plant-pack.jpg)
+- 파일: `free-plant-pack.zip` — 릴리스 v8.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-plant-pack
+
+### Handpainted Style Rocks / Handpainted Stylized Sword
+![Handpainted Style Rocks 미리보기](previews/handpainted-style-rocks.jpg)
+- 파일: `handpainted-style-rocks.zip`, `handpainted-stylized-sword.zip` — 릴리스 v8.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/handpainted-style-rocks , https://opengameart.org/content/handpainted-stylized-sword
+
+### Industrial Building #1
+![Industrial Building #1 미리보기](previews/industrial-building-1.jpg)
+- 파일: `industrial-building-1.zip` — 릴리스 v8.2 첨부, 54.9MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/industrial-building-1
