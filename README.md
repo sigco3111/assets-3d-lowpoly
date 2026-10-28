@@ -403,3 +403,60 @@ Food와 Crops 원본 팩에 동일한 Coconut_Half.obj 1개가 포함되어 있�
 ![Universal Animation Library 2 미리보기](previews/universal-animation-library-2.png)
 - 파일: `universal-animation-library-2.zip` (여성 마네킹 + 애니메이션 세트 GLB) — 릴리스 v6.0 첨부, 단일
 - 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/universal-animation-library-2
+
+## 2026-10-28 추가 팩 (릴리스 v7.0)
+
+OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위주 구성이며 GLB/OBJ로 내보내기가 필요할 수 있습니다.
+
+### 3D Castle / Dungeon Tileset Extended
+![3D Castle Dungeon Tileset Extended 미리보기](previews/3d-castle-dungeon-tileset-extended.jpg)
+- 파일: `3d-castle-dungeon-tileset-extended.zip` (BLEND 1개 + 텍스처 JPG 36·PNG 14 + XCF 1) — 릴리스 v7.0 첨부, 11MB 분할 2조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 (원본 readme.txt 동봉) / 원본: https://opengameart.org/content/3d-castle-dungeon-tileset-extended
+- 아래 기본판과 파일 12개 동일·3개 갱신된 확장판입니다.
+
+### Free 3D Castle / Dungeon Tileset
+![Free 3D Castle Dungeon Tileset 미리보기](previews/free-3d-castle-dungeon-tileset.png)
+- 파일: `free-3d-castle-dungeon-tileset.zip` (BLEND 1개 + 텍스처 JPG 16·PNG 1) — 릴리스 v7.0 첨부, 11MB 분할 2조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 (원본 readme.txt 동봉) / 원본: https://opengameart.org/content/free-3d-castle-dungeon-tileset
+- 확장판에 없는 기본판 전용 파일 4개가 있습니다.
+
+### 3D Platformer Art Pack 1
+![3D Platformer Art Pack 1 미리보기](previews/free-3d-platformer-art-pack-1.png)
+- 파일: `free-3d-platformer-art-pack-1.zip` (BLEND 2개 + 텍스처 PNG 39·JPG 16) — 릴리스 v7.0 첨부, 11MB 분할 5조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-platformer-art-pack-1
+
+### 3D Platformer Art Pack 2 - Fences
+![3D Platformer Art Pack 2 미리보기](previews/free-3d-platformer-art-pack-2-fences.png)
+- 파일: `free-3d-platformer-art-pack-2-fences.zip` (BLEND 2개 + 텍스처 JPG 12·PNG 11) — 릴리스 v7.0 첨부, 11MB 분할 4조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-platformer-art-pack-2-fences
+
+### 3D Platformer Art Pack 3 - Terrain & Extras
+![3D Platformer Art Pack 3 미리보기](previews/free-3d-platformer-art-pack-3-terrain-and-extras.png)
+- 파일: `free-3d-platformer-art-pack-3-terrain-and-extras.zip` (BLEND 1개 + 텍스처 JPG 53·PNG 43 + XML 2) — 릴리스 v7.0 첨부, 11MB 분할 8조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-platformer-art-pack-3-terrain-and-extras
+
+### 3D Platformer Houses
+![3D Platformer Houses 미리보기](previews/free-3d-platformer-houses.png)
+- 파일: `free-3d-platformer-houses.zip` (BLEND 1개 + 텍스처 JPG 22·PNG 6) — 릴리스 v7.0 첨부, 11MB 분할 3조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-platformer-houses
+
+### Vegetation Asset Pack
+![Vegetation Asset Pack 미리보기](previews/free-vegetation-asset-pack.jpg)
+- 파일: `free-vegetation-asset-pack.zip` (BLEND 2개 + 텍스처 PNG 5·JPG 4) — 릴리스 v7.0 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-vegetation-asset-pack
+
+### Robot Character
+![Robot Character 미리보기](previews/robot-character.png)
+- 파일: `robot-character.zip` (BLEND 1개 + DAE 1 + 텍스처 PNG 14 + XCF 2 + Godot용 material/tscn 3) — 릴리스 v7.0 첨부
+- 이 팩만 분할 방식이 다릅니다: 69.5MB라 `robot-character.zip.part1`~`part5` (15MB 조각 5개)로 나눴습니다. 재결합: `cat robot-character.zip.part* > robot-character.zip` (Windows: `copy /b robot-character.zip.part1+robot-character.zip.part2+robot-character.zip.part3+robot-character.zip.part4+robot-character.zip.part5 robot-character.zip`). 다른 팩의 `zip -s 0` 방식과 다르니 주의하세요.
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/robot-character
+
+### Vampire Bat (Animated)
+![Vampire Bat 미리보기](previews/vampire-bat-animated.png)
+- 파일: `vampire-bat-animated.zip` (애니메이션 포함 BLEND 1개 + JPG 10 + XCF 1) — 릴리스 v7.0 첨부, 11MB 분할 2조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/vampire-bat-animated
+
+### Industrial Asset Pack
+![Industrial Asset Pack 미리보기](previews/high-quality-industrial-asset-pack.jpg)
+- 파일: `high-quality-industrial-asset-pack.zip` (BLEND 2개 + 텍스처 JPG 177·PNG 7) — 릴리스 v7.0 첨부, 11MB 분할 9조각 (`zip -s 0` 재결합)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/high-quality-industrial-asset-pack
