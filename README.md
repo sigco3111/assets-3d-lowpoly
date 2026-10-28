@@ -614,22 +614,7 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 
 ## 2026-10-28 추가 팩 6차 (릴리스 v8.4)
 
-모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part1+part2+... <팩명>.zip`).
-
-### 3D Castle / Dungeon Tileset Extended
-![3D Castle / Dungeon Tileset Extended 미리보기](previews/3d-castle-dungeon-tileset-extended.jpg)
-- 파일: `3d-castle-dungeon-tileset-extended.zip` — 릴리스 v8.4 첨부, 21.9MB plain split 2조각
-- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-castle-dungeon-tileset-extended
-
-### Free 3D Castle / Dungeon Tileset
-![Free 3D Castle / Dungeon Tileset 미리보기](previews/free-3d-castle-dungeon-tileset.jpg)
-- 파일: `free-3d-castle-dungeon-tileset.zip` — 릴리스 v8.4 첨부, 단일
-- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-castle-dungeon-tileset
-
-### Robot Character
-![Robot Character 미리보기](previews/robot-character.jpg)
-- 파일: `robot-character.zip` — 릴리스 v8.4 첨부, 70MB plain split 5조각
-- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/robot-character
+모두 rubberduck (OpenGameArt) CC0 3D 팩. **주의: 이 릴리스의 `3d-castle-dungeon-tileset-extended`, `free-3d-castle-dungeon-tileset`, `robot-character` 3개 자산은 1차(릴리스 v7.0) 수집분과 동일한 사본입니다. 링크 보존을 위해 릴리스에 남겨두지만 고유 팩 수 집계에서는 제외합니다. 신규 고유 팩은 아래 4개입니다.**
 
 ### rubberduck
 ![rubberduck 미리보기](previews/rubberduck.jpg)
