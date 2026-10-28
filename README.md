@@ -55,10 +55,7 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 ![Castle Kit 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/castle-kit.png)
 - 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/castle-kit.zip) (5.6MB, 모델 60종: 성 건물 GLB/OBJ)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/castle-kit
-### Racing Pack
-![Racing Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/racing-pack.png)
-- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/racing-pack.zip) (1.4MB, 레이싱 차량·트랙 모델)
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/racing-pack
+
 ### KayKit Skeletons 1.0
 ![KayKit Skeletons 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-skeletons-1.0.png)
 - 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-skeletons-1.0.zip) (29MB 분할, 스켈레톤 캐릭터 4종 glTF/FBX)
@@ -119,22 +116,6 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 ![Blocky Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/blocky-characters.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/blocky-characters.zip) (1.4MB, 파일 56개)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/blocky-characters
-### Toon Characters
-![Toon Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/toon-characters.png)
-- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/toon-characters.zip) (5.4MB, 파일 698개)
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/toon-characters
-### Modular Characters
-![Modular Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/modular-characters.png)
-- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/modular-characters.zip) (1.8MB, 파일 456개)
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-characters
-### Voxel Pack
-![Voxel Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/voxel-pack.png)
-- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/voxel-pack.zip) (2.2MB, 파일 211개)
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voxel-pack
-### Brick Pack
-![Brick Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/brick-pack.png)
-- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/brick-pack.zip) (0.2MB, 파일 115개; 공식 페이지명 Brick Pack(구 Toy brick pack))
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/brick-pack
 ### 3D Road Tiles
 ![3D Road Tiles 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/3d-road-tiles.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/3d-road-tiles.zip) (3.7MB, 파일 915개 GLB/OBJ 등)
@@ -147,14 +128,7 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 ![Minigolf Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/minigolf-kit.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/minigolf-kit.zip) (1.8MB, 파일 633개 GLB/OBJ 등)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/minigolf-kit
-### Robot Pack
-![Robot Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/robot-pack.png)
-- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/robot-pack.zip) (0.4MB, 파일 63개)
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/robot-pack
-### Prototype Textures
-![Prototype Textures 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/prototype-textures.png)
-- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/prototype-textures.zip) (0.4MB, 파일 109개)
-- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/prototype-textures
+
 ### Holiday Kit
 ![Holiday Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/holiday-kit.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/holiday-kit.zip) (3.6MB, 파일 543개(GLB/OBJ/STL 47종 등))
@@ -234,3 +208,7 @@ Quaternius의 애니메이션 3D 팩 12종. 공식 배포 Google Drive에서 받
 - 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/spaceships.html
 
 참고: Animated Zombie와 Cute Monsters는 원본 zip에 라이선스 파일이 없어, 공식 팩 페이지의 CC0 표기를 기록한 LICENSE-SOURCE.txt를 수집자가 동봉했습니다. 나머지 10팩은 원본 License.txt가 그대로 포함되어 있습니다.
+
+## 분류 정정 안내 (2026-10-28)
+
+Brick Pack, Modular Characters, Prototype Textures, Racing Pack, Robot Pack, Toon Characters, Voxel Pack 7팩은 3D 모델이 없는 2D 스프라이트·타일 6팩과 텍스처 1팩이어서 [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel/releases/tag/v5.0) 저장소(릴리스 v5.0)로 옮겼습니다. 이 저장소 릴리스 v2.0·v3.0에 올려 둔 기존 파일은 지우지 않았으므로 예전 다운로드 링크는 그대로 동작합니다.
