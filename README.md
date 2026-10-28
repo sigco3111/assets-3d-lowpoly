@@ -635,3 +635,28 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![simple 3d crystals 미리보기](previews/simple-3d-crystals-unwrapped-simple-texture.jpg)
 - 파일: `simple-3d-crystals-unwrapped-simple-texture.zip` — 릴리스 v8.4 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-3d-crystals-unwrapped-simple-texture
+
+
+## 2026-10-28 추가 팩 7차 (릴리스 v8.5)
+
+모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### Mossy Rock Environment Pack
+![Mossy Rock Environment Pack 미리보기](previews/mossy-rock-environment-pack.jpg)
+- 파일: `mossy-rock-environment-pack.zip` — 릴리스 v8.5 첨부, 237MB plain split 16조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/mossy-rock-environment-pack
+
+### Stylized Boxes
+![Stylized Boxes 미리보기](previews/stylized-boxes.jpg)
+- 파일: `stylized-boxes.zip` — 릴리스 v8.5 첨부, 66.6MB plain split 5조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/stylized-boxes
+
+### Stylized Hand-Painted Stone Blocks
+![Stylized Hand-Painted Stone Blocks 미리보기](previews/stylized-hand-painted-stone-blocks.jpg)
+- 파일: `stylized-hand-painted-stone-blocks.zip` — 릴리스 v8.5 첨부, 62.8MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/stylized-hand-painted-stone-blocks
+
+### Voxel Low Poly Hybrid Cave Pack
+![Voxel Low Poly Hybrid Cave Pack 미리보기](previews/voxel-low-poly-hybrid-cave-pack.jpg)
+- 파일: `voxel-low-poly-hybrid-cave-pack.zip` — 릴리스 v8.5 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/voxel-low-poly-hybrid-cave-pack
