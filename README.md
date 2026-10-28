@@ -693,3 +693,51 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 - 파일: `stone-plate-pack.zip` — 릴리스 v8.6 첨부, 66.9MB plain split 5조각
 - 제작: rubberduck / 라이선스: CC-BY 4.0 (귀속: rubberduck) / 원본: https://opengameart.org/content/stone-plate-pack
 - 내용: 조각한 돌판 6종(1x1·1x2·2x2 각 2개). 고폴리 plates_high.blend 포함(리텍스처용). 원본이 별도 blend 2개로 배포되어 수집자가 zip으로 묶음
+
+### Downtown City MegaKit
+![Downtown City MegaKit 미리보기](previews/downtown-city-megakit.jpg)
+- 파일: `downtown-city-megakit.zip` — 릴리스 v8.8 첨부, 224MB plain split 15조각 (`cat downtown-city-megakit.zip.part* > downtown-city-megakit.zip`)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/downtowncitymegakit.html (itch.io Standard 무료 버전 원본 바이트)
+- 내용: 도심 모듈 건물·도로 153종 glTF·FBX + PNG·HDR. zip에 원본 License_Standard.txt(CC0) 포함
+
+### Modular Character Outfits - Fantasy
+![Modular Character Outfits 미리보기](previews/modular-character-outfits-fantasy.jpg)
+- 파일: `modular-character-outfits-fantasy.zip` — 릴리스 v8.8 첨부, 280MB plain split 19조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/modularcharacteroutfitsfantasy.html (itch.io Standard 무료 버전 원본 바이트)
+- 내용: 판타지 의상 24종 glTF·FBX + PNG 46. Universal Base Characters와 결합 사용(zip 내 Readme). zip에 원본 License_Standard.txt(CC0) 포함
+
+### Universal Base Characters
+![Universal Base Characters 미리보기](previews/universal-base-characters.jpg)
+- 파일: `universal-base-characters.zip` — 릴리스 v8.8 첨부, 123MB plain split 9조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/universalbasecharacters.html (itch.io Standard 무료 버전 원본 바이트)
+- 내용: 베이스 캐릭터 10종 glTF·FBX + PNG 48. Modular Character Outfits와 호환. zip에 원본 License_Standard.txt(CC0) 포함
+
+### Ultimate Platformer Pack
+![Ultimate Platformer Pack 미리보기](previews/ultimate-platformer-pack.jpg)
+- 파일: `ultimate-platformer-pack.zip` — 릴리스 v8.7 첨부, 18MB plain split 2조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/ultimateplatformer.html (페이지명 Platformer Game Kit; itch.io 업로드명 Ultimate Platformer Pack 원본 바이트)
+- 내용: 플랫포머 모듈 110종 glTF·OBJ·FBX·BLEND. zip에 원본 License.txt(CC0) 포함. Modular Platformer Pack과 이름 유사 모델 일부 관련, 내용은 별개 버전
+
+### 3D Card Kit - Fantasy
+![3D Card Kit 미리보기](previews/3d-card-kit-fantasy.jpg)
+- 파일: `3d-card-kit-fantasy.zip` — 릴리스 v8.7 첨부, 46MB plain split 4조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/3dcardkitfantasy.html (itch.io Standard 무료 버전 원본 바이트)
+- 내용: 판타지 카드 모델 34종 glTF·OBJ·FBX + PNG 34. zip에 원본 License.txt(CC0) 포함
+
+### Modular Platformer Pack
+![Modular Platformer Pack 미리보기](previews/modular-platformer-pack.jpg)
+- 파일: `modular-platformer-pack.zip` — 릴리스 v8.7 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/modularplatformer.html (itch.io 업로드명 Platformer Pack by Quaternius)
+- 내용: 플랫포머 모듈·트랩 53종 OBJ·FBX·BLEND. 원본 zip에 라이선스 미동봉 → LICENSE-SOURCE.txt(수집자 작성) 동봉
+
+### Easy Enemy Pack
+![Easy Enemy Pack 미리보기](previews/easy-enemy-pack.jpg)
+- 파일: `easy-enemy-pack.zip` — 릴리스 v8.7 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/easyenemy.html (itch.io 업로드명 Easy Animated Enemy Pack - Jan 2019)
+- 내용: 적 캐릭터 6종 OBJ·FBX·BLEND. 원본 zip에 라이선스 미동봉 → LICENSE-SOURCE.txt(수집자 작성) 동봉
+
+### Farm Buildings Pack
+![Farm Buildings Pack 미리보기](previews/farm-buildings-pack.jpg)
+- 파일: `farm-buildings-pack.zip` — 릴리스 v8.7 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/farmbuildings.html (itch.io 업로드명 Farm Buildings by Quaternius)
+- 내용: 농장 건물 13종 OBJ·FBX·BLEND. 원본 zip에 라이선스 미동봉 → LICENSE-SOURCE.txt(수집자 작성) 동봉
