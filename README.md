@@ -6,29 +6,41 @@
 
 ### Fantasy Town Kit 1.0
 ![Fantasy Town Kit 미리보기](previews/fantasy-town-kit-1.0.png)
-- 파일: `fantasy-town-kit-1.0.zip` (모델 153종 × GLB/OBJ/DAE/STL + PNG 텍스처)
+- 파일: `fantasy-town-kit-1.0.zip` (모델 153종 × GLB/OBJ/DAE/STL + PNG 텍스처) — 릴리스 v1.0 첨부
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/fantasy-town-kit
 
 ### Nature Kit 2.1
 ![Nature Kit 미리보기](previews/kenney_natureKit_2.1.png)
-- 파일: `kenney_natureKit_2.1.zip` (모델 329종 × GLB/OBJ/DAE/STL + PNG 텍스처)
+- 파일: `kenney_natureKit_2.1.zip` (모델 329종 × GLB/OBJ/DAE/STL + PNG 텍스처) — 릴리스 v1.0 첨부
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/nature-kit
+
+### KayKit Adventurers 1.0
+![KayKit Adventurers 아이콘](previews/kaykit-adventurers.png)
+- 파일: `kaykit-adventurers-1.0.zip` (릴리스 v1.1 첨부): 캐릭터 5종(기사·마법사·도적·후드 도적·야만전사) GLB — 각 76종 애니메이션 내장 + 무기·소품 glTF 27종
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0
+
+### KayKit Dungeon Remastered 1.0
+![KayKit Dungeon Remastered 아이콘](previews/kaykit-dungeon-remastered.png)
+- 파일: `kaykit-dungeon-remastered-1.0.zip` (릴리스 v1.1 첨부): 모듈식 던전 모델 203종 GLB + 208종 OBJ
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0
 
 ## 다운로드
 
-zip은 릴리스에 첨부되어 있습니다 (저장소 파일 크기 제한 때문이 아니라 웹 업로드 방식의 한계로 릴리스 방식 사용):
+zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로 릴리스 방식 사용):
 [최신 릴리스에서 받기](https://github.com/sigco3111/assets-3d-lowpoly/releases/latest)
+- v1.0: Kenney Fantasy Town Kit, Nature Kit
+- v1.1: KayKit Adventurers, Dungeon Remastered
 
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
-2. CC0이므로 귀속 표기 없이 사용 가능 (표기 시 "Kenney (kenney.nl)")
+2. CC0이므로 귀속 표기 없이 사용 가능 (표기 시 "Kenney (kenney.nl)", "Kay Lousberg (kaylousberg.com)")
 
 ## 출처와 라이선스 기록
 
 - 원본 라이선스 전문: 각 zip 안에 제작자가 배포한 License.txt 원본이 그대로 보존되어 있습니다 (법적 효력은 이 원본 기준).
 - 이 저장소 루트의 LICENSE.md는 원본을 대체하지 않는 수집자 요약본입니다.
-- 원본 배포 페이지의 라이선스 조건(CC0)과 동봉된 License.txt를 확인했습니다.
-- 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
+- Kenney 팩: 원본 배포 페이지의 라이선스 조건(CC0)과 동봉된 License.txt를 확인. 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
+- KayKit 팩: 제작자 공식 GitHub 저장소의 원본 바이트를 그대로 보존했고, 동봉 LICENSE.txt(CC0)를 확인했습니다.
 
 전체 인덱스와 장르 태그: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog)
