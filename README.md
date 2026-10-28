@@ -460,3 +460,47 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![Industrial Asset Pack 미리보기](previews/high-quality-industrial-asset-pack.jpg)
 - 파일: `high-quality-industrial-asset-pack.zip` (BLEND 2개 + 텍스처 JPG 177·PNG 7) — 릴리스 v7.0 첨부, 11MB 분할 9조각 (`zip -s 0` 재결합)
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/high-quality-industrial-asset-pack
+
+## 2026-10-28 추가 팩 2차 (릴리스 v8.0)
+
+모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. v8.0의 분할 팩은 모두 plain split 방식입니다: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part1+part2+... <팩명>.zip`).
+
+### 3D Collectable Pack
+![3D Collectable Pack 미리보기](previews/3d-collectable-pack.jpg)
+- 파일: `3d-collectable-pack.zip` (BLEND 1개 + PNG 23) — 릴리스 v8.0 첨부, 17.5MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-collectable-pack
+
+### 3D LOD Pipe Construction Set
+![3D LOD Pipe Construction Set 미리보기](previews/3d-lod-pipe-construction-set.jpg)
+- 파일: `3d-lod-pipe-construction-set.zip` (BLEND 1개 + JPG 2) — 릴리스 v8.0 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-lod-pipe-construction-set
+
+### 3D Mese Crystal
+![3D Mese Crystal 미리보기](previews/3d-mese-crystal.jpg)
+- 파일: `3d-mese-crystal.zip` (BLEND 1개 + PNG 3) — 릴리스 v8.0 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-mese-crystal
+
+### 3D Platformer Brickblock Pack
+![3D Platformer Brickblock Pack 미리보기](previews/3d-platformer-brickblock-pack.jpg)
+- 파일: `3d-platformer-brickblock-pack.zip` (BLEND 1개 + JPG 2) — 릴리스 v8.0 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-platformer-brickblock-pack
+
+### 50 Fantasy RPG Asset Models
+![50 Fantasy RPG Asset Models 미리보기](previews/50-fantasy-rpg-asset-models.jpg)
+- 파일: `50-fantasy-rpg-asset-models.zip` (BLEND 1개, 모델 50개; bare blend를 zip으로 재압축) — 릴리스 v8.0 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-fantasy-rpg-asset-models
+
+### Abstract Fantasy Decoration Assets
+![Abstract Fantasy Decoration Assets 미리보기](previews/abstract-fantasy-decoration-assets.jpg)
+- 파일: `abstract-fantasy-decoration-assets.zip` (BLEND 1개 + JPG 1 + PNG 1) — 릴리스 v8.0 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/abstract-fantasy-decoration-assets
+
+### Alien Building/Base Set
+![Alien Building/Base Set 미리보기](previews/alien-buildingbase-set.jpg)
+- 파일: `alien-buildingbase-set.zip` (BLEND 1개 + JPG 27 + PNG 3) — 릴리스 v8.0 첨부, 20MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/alien-buildingbase-set
+
+### Alien Builings Extension Pack
+![Alien Builings Extension Pack 미리보기](previews/alien-builings-extension-pack.jpg)
+- 파일: `alien-builings-extension-pack.zip` (BLEND 1개 + JPG 65 + PNG 26 + TGA 3) — 릴리스 v8.0 첨부, 113MB plain split 8조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/alien-builings-extension-pack
