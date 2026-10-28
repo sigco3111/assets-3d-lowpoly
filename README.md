@@ -363,3 +363,43 @@ Brick Pack, Modular Characters, Prototype Textures, Racing Pack, Robot Pack, Too
 
 이 확장의 원격 파일 SHA-256을 모두 로컬과 대조했습니다. 3D 팩의 모델 헤더·OBJ 정점/면, 오디오 디코딩, SVG 문서를 실제 파일에서 확인했습니다.
 Food와 Crops 원본 팩에 동일한 Coconut_Half.obj 1개가 포함되어 있습니다. 팩 구조 보존을 위해 둘 다 유지했으며 중복 팩으로 추가한 것은 아닙니다. 기존 Quaternius 12팩과 새 모델 파일 해시 중복은 없었습니다.
+
+## v6.0 — Quaternius MegaKit·애니메이션 (2026-10-28)
+
+제작자가 OpenGameArt에 직접 배포한 CC0 팩입니다. 각 zip 안에 원본 License 파일(CC0)이 들어 있습니다. 11MB 분할 zip 조각(.z01~.zip)은 모두 받은 뒤 같은 폴더에서 합쳐야 열립니다. macOS/Linux: `zip -s 0 <이름>.zip --out <이름>-full.zip` 후 압축 해제. Windows: 7-Zip에서 .zip 파일을 열면 자동으로 이어 읽습니다.
+
+### Fantasy Props MegaKit
+![Fantasy Props MegaKit 미리보기](previews/fantasy-props-megakit.png)
+- 파일: `fantasy-props-megakit.zip` (모델 94종 GLB/OBJ/FBX) — 릴리스 v6.0 첨부, 11MB 분할 7조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-props-megakit
+
+### Medieval Village MegaKit
+![Medieval Village MegaKit 미리보기](previews/medieval-village-megakit.png)
+- 파일: `medieval-village-megakit.zip` (모델 176종 GLB/OBJ/FBX) — 릴리스 v6.0 첨부, 11MB 분할 9조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-village-megakit
+
+### Modular Sci-Fi MegaKit
+![Modular Sci-Fi MegaKit 미리보기](previews/modular-sci-fi-megakit.png)
+- 파일: `modular-sci-fi-megakit.zip` (모듈 191종 GLB/OBJ/FBX) — 릴리스 v6.0 첨부, 11MB 분할 5조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-sci-fi-megakit
+
+### Stylized Nature MegaKit
+![Stylized Nature MegaKit 미리보기](previews/stylized-nature-megakit.png)
+- 파일: `stylized-nature-megakit.zip` (모델 68종 GLB/OBJ/FBX) — 릴리스 v6.0 첨부, 11MB 분할 10조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/stylized-nature-megakit
+
+### Sci-Fi Essentials Kit (모델)
+![Sci-Fi Essentials Kit 미리보기](previews/sci-fi-essentials-kit.png)
+- 파일: `sci-fi-essentials-kit-models.zip` (모델 37종 GLB/OBJ/FBX) — 릴리스 v6.0 첨부, 11MB 분할 8조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-essentials-kit
+- 4K PBR 텍스처 36종(PNG)은 실제 내용이 이미지뿐이라 assets-2d-pixel v6.0으로 옮겼습니다. 이 저장소 v6.0 릴리스의 `sci-fi-essentials-kit-textures` 파일은 동일 바이트 사본으로 남겨 둡니다.
+
+### Universal Animation Library
+![Universal Animation Library 미리보기](previews/universal-animation-library.png)
+- 파일: `universal-animation-library.zip` (표준 마네킹 + 애니메이션 세트 GLB) — 릴리스 v6.0 첨부, 11MB 분할 2조각
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/universal-animation-library
+
+### Universal Animation Library 2
+![Universal Animation Library 2 미리보기](previews/universal-animation-library-2.png)
+- 파일: `universal-animation-library-2.zip` (여성 마네킹 + 애니메이션 세트 GLB) — 릴리스 v6.0 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/universal-animation-library-2
