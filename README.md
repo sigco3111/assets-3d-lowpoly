@@ -212,3 +212,154 @@ Quaternius의 애니메이션 3D 팩 12종. 공식 배포 Google Drive에서 받
 ## 분류 정정 안내 (2026-10-28)
 
 Brick Pack, Modular Characters, Prototype Textures, Racing Pack, Robot Pack, Toon Characters, Voxel Pack 7팩은 3D 모델이 없는 2D 스프라이트·타일 6팩과 텍스처 1팩이어서 [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel/releases/tag/v5.0) 저장소(릴리스 v5.0)로 옮겼습니다. 이 저장소 릴리스 v2.0·v3.0에 올려 둔 기존 파일은 지우지 않았으므로 예전 다운로드 링크는 그대로 동작합니다.
+
+
+## 2026-10-28 추가 확장: 실제 파일 검증
+
+### Low Poly Food Pack
+
+![Low Poly Food Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-food-pack.png)
+
+- 다운로드: [low-poly-food-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-food-pack.zip)
+- 실제 내용: OBJ 103개 + FBX 103개 + BLEND 103개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/low-poly-food-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### LowPoly Modular Sci-Fi Environments
+
+![LowPoly Modular Sci-Fi Environments 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-sci-fi-environments.png)
+
+- 다운로드: [lowpoly-modular-sci-fi-environments.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-sci-fi-environments.zip)
+- 실제 내용: OBJ 91개 + FBX 91개 + BLEND 91개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-modular-sci-fi-environments
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Modular Dungeon Pack
+
+![LowPoly Modular Dungeon Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-dungeon-pack.png)
+
+- 다운로드: [lowpoly-modular-dungeon-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-dungeon-pack.zip)
+- 실제 내용: OBJ 48개 + FBX 48개 + BLEND 48개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-modular-dungeon-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Modular Street Pack
+
+![LowPoly Modular Street Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-street-pack.png)
+
+- 다운로드: [lowpoly-modular-street-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-street-pack.zip)
+- 실제 내용: OBJ 25개 + FBX 25개 + BLEND 25개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-modular-street-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly House Interior Pack
+
+![LowPoly House Interior Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-house-interior-pack.png)
+
+- 다운로드: [lowpoly-house-interior-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-house-interior-pack.zip)
+- 실제 내용: OBJ 123개 + FBX 123개 + BLEND 123개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-house-interior-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### LowPoly Textured Trees
+
+![LowPoly Textured Trees 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-textured-trees.png)
+
+- 다운로드: [lowpoly-textured-trees.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-textured-trees.zip)
+- 실제 내용: OBJ 45개 + FBX 45개 + BLEND 45개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-textured-trees
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### LowPoly Steampunk Turrets
+
+![LowPoly Steampunk Turrets 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-steampunk-turrets.png)
+
+- 다운로드: [lowpoly-steampunk-turrets.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-steampunk-turrets.zip)
+- 실제 내용: OBJ 37개 + FBX 37개 + BLEND 37개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-steampunk-turrets
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Crops Pack
+
+![LowPoly Crops Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-crops-pack.png)
+
+- 다운로드: [lowpoly-crops-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-crops-pack.zip)
+- 실제 내용: OBJ 102개 + FBX 102개 + BLEND 102개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-crops-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### Low Poly Guns Pack
+
+![Low Poly Guns Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-guns-pack.png)
+
+- 다운로드: [low-poly-guns-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-guns-pack.zip)
+- 실제 내용: OBJ 55개 + FBX 55개 + BLEND 55개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/low-poly-guns-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### Low Poly Nature Pack
+
+![Low Poly Nature Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-nature-pack-1.png)
+
+- 다운로드: [low-poly-nature-pack-1.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-nature-pack-1.zip)
+- 분할 파일 필수: [low-poly-nature-pack-1.z01](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-nature-pack-1.z01)도 같은 폴더에 저장하세요. `zip -s 0 low-poly-nature-pack-1.zip --out nature-full.zip` 후 nature-full.zip을 압축 해제합니다. 원격 2개 파일로 재결합·압축 검사·원본 내용 대조 완료.
+- 실제 내용: OBJ 150개 + FBX 150개 + BLEND 150개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/low-poly-nature-pack-1
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Medieval Weapons
+
+![LowPoly Medieval Weapons 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-medieval-weapons.png)
+
+- 다운로드: [lowpoly-medieval-weapons.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-medieval-weapons.zip)
+- 실제 내용: OBJ 24개 + FBX 24개 + BLEND 24개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-medieval-weapons
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### LowPoly Animated Monsters
+
+![LowPoly Animated Monsters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-animated-monsters.png)
+
+- 다운로드: [lowpoly-animated-monsters.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-animated-monsters.zip)
+- 실제 내용: OBJ 4개 + FBX 4개 + BLEND 4개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-animated-monsters
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Posed Humans
+
+![LowPoly Posed Humans 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-posed-humans.png)
+
+- 다운로드: [lowpoly-posed-humans.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-posed-humans.zip)
+- 실제 내용: OBJ 28개 + FBX 28개 + BLEND 28개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-posed-humans
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Public Transport
+
+![LowPoly Public Transport 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-public-transport.png)
+
+- 다운로드: [lowpoly-public-transport.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-public-transport.zip)
+- 실제 내용: OBJ 12개 + FBX 12개 + BLEND 12개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-public-transport
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 배포 ZIP에는 라이선스 파일이 없으며, 배포 페이지의 CC0 표기를 근거로 합니다.
+
+### Animated Fish
+
+![Animated Fish 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/animated-fish.png)
+
+- 다운로드: [animated-fish.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/animated-fish.zip)
+- 실제 내용: OBJ 7개 + FBX 7개 + BLEND 7개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/animated-fish
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+### LowPoly Ship Pack
+
+![LowPoly Ship Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-ship-pack.png)
+
+- 다운로드: [lowpoly-ship-pack.zip](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-ship-pack.zip)
+- 실제 내용: OBJ 6개 + FBX 6개 + BLEND 6개. 형식별 파일 수이며 서로 다른 모델 총수를 합산한 숫자가 아닙니다.
+- 제작: Quaternius / 라이선스: CC0 / 출처: https://opengameart.org/content/lowpoly-ship-pack
+- 원본 파일 내용은 바이트 그대로 보존했습니다. 수집자가 작성한 `LICENSE-SOURCE.txt`에 출처·라이선스 근거·원본 ZIP SHA-256을 기록했습니다. 원본 License.txt도 포함됩니다.
+
+이 확장의 원격 파일 SHA-256을 모두 로컬과 대조했습니다. 3D 팩의 모델 헤더·OBJ 정점/면, 오디오 디코딩, SVG 문서를 실제 파일에서 확인했습니다.
+Food와 Crops 원본 팩에 동일한 Coconut_Half.obj 1개가 포함되어 있습니다. 팩 구조 보존을 위해 둘 다 유지했으며 중복 팩으로 추가한 것은 아닙니다. 기존 Quaternius 12팩과 새 모델 파일 해시 중복은 없었습니다.
