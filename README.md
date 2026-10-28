@@ -504,3 +504,32 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![Alien Builings Extension Pack 미리보기](previews/alien-builings-extension-pack.jpg)
 - 파일: `alien-builings-extension-pack.zip` (BLEND 1개 + JPG 65 + PNG 26 + TGA 3) — 릴리스 v8.0 첨부, 113MB plain split 8조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/alien-builings-extension-pack
+
+## 2026-10-28 추가 팩 3차 (릴리스 v8.1)
+
+모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part1+part2 <팩명>.zip`).
+
+### Basic 3D Platformer Pack
+![Basic 3D Platformer Pack 미리보기](previews/basic-3d-platformer-pack.jpg)
+- 파일: `basic-3d-platformer-pack.zip` (BLEND 1개 + 텍스처 JPG 12·JPEG 3·PNG 9) — 릴리스 v8.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/basic-3d-platformer-pack
+
+### Colorful Bushes
+![Colorful Bushes 미리보기](previews/colorful-bushes.jpg)
+- 파일: `colorful-bushes.zip` (BLEND 1개 + DAE 3 + Godot용 tscn 12·material 4 + PNG 4) — 릴리스 v8.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/colorful-bushes
+
+### Container
+![Container 미리보기](previews/container-0.jpg)
+- 파일: `container-0.zip` (BLEND 1개 + PNG 10) — 릴리스 v8.1 첨부, 30MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/container-0
+
+### Fantasy Torch Pack 1~4
+![Fantasy Torch Pack 1 미리보기](previews/fantasy-torch-pack-1.jpg)
+- 파일: `fantasy-torch-pack-1.zip` ~ `fantasy-torch-pack-4.zip` (각 BLEND 1개 + 텍스처/참고 JPG·PNG·XCF 수 개) — 릴리스 v8.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-torch-pack-1 (2, 3, 4도 동일 경로 규칙)
+
+### Free 3D-Tileset-1
+![Free 3D-Tileset-1 미리보기](previews/free-3d-tileset-1.jpg)
+- 파일: `free-3d-tileset-1.zip` (BLEND 1개; bare blend를 zip으로 재압축) — 릴리스 v8.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-tileset-1
