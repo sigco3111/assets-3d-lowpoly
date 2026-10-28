@@ -179,3 +179,58 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 ![KayKit Restaurant Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-restaurant-bits-1.0.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-restaurant-bits-1.0.zip) (3.8MB, 파일 592개 glTF/OBJ/FBX)
 - 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Restaurant-Bits-1.0
+
+## 2026-10-28 추가 팩 (릴리스 v4.0)
+
+Quaternius의 애니메이션 3D 팩 12종. 공식 배포 Google Drive에서 받은 원본 바이트이며, 각 팩 페이지의 CC0 조건을 확인했습니다.
+
+### Animated Alien
+![Animated Alien 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-alien.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-alien.zip) (5.0M, 파일 6개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/animatedalien.html
+### Animated Dinosaurs
+![Animated Dinosaurs 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-dinosaurs.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-dinosaurs.zip) (7.8M, 파일 14개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/animateddinosaurs.html
+### Animated Mech
+![Animated Mech 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-mech.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-mech.zip) (17M, 파일 10개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/animatedmech.html
+### Animated Robot
+![Animated Robot 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-robot.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-robot.zip) (5.9M, 파일 4개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/animatedrobot.html
+### Animated Zombie
+![Animated Zombie 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-zombie.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-zombie.zip) (584K, 파일 6개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/animatedzombie.html
+### Cars
+![Cars 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-cars.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-cars.zip) (1.3M, 파일 16개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/cars.html
+### Cute Monsters
+![Cute Monsters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-cute-monsters.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-cute-monsters.zip) (9.2M, 파일 44개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/cutemonsters.html
+### Farm Animals
+![Farm Animals 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-farm-animals.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-farm-animals.zip) (4.7M, 파일 16개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/farmanimal.html
+### Knight Character
+![Knight Character 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-knight-character.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-knight-character.zip) (112K, 파일 19개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/knightcharacter.html
+### Medieval Village
+![Medieval Village 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-medieval-village.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-medieval-village.zip) (1.8M, 파일 89개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/medievalvillage.html
+### RPG Characters
+![RPG Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-rpg-characters.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-rpg-characters.zip) (13M, 파일 19개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/rpgcharacters.html
+### Spaceships
+![Spaceships 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-spaceships.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-spaceships.zip) (384K, 파일 12개 glTF)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/spaceships.html
+
+참고: Animated Zombie와 Cute Monsters는 원본 zip에 라이선스 파일이 없어, 공식 팩 페이지의 CC0 표기를 기록한 LICENSE-SOURCE.txt를 수집자가 동봉했습니다. 나머지 10팩은 원본 License.txt가 그대로 포함되어 있습니다.
