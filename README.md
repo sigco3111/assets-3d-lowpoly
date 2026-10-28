@@ -741,3 +741,104 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 - 파일: `farm-buildings-pack.zip` — 릴리스 v8.7 첨부, 단일
 - 제작: Quaternius / 라이선스: CC0 / 원본: https://quaternius.com/packs/farmbuildings.html (itch.io 업로드명 Farm Buildings by Quaternius)
 - 내용: 농장 건물 13종 OBJ·FBX·BLEND. 원본 zip에 라이선스 미동봉 → LICENSE-SOURCE.txt(수집자 작성) 동봉
+
+
+## v8.9 — Quaternius 3D 팩 16종 (OpenGameArt 미러, 2026-10-29)
+
+Drive 익명 다운로드 쿼터 차단에 따른 검증 대체 경로(OpenGameArt 원본 페이지)로 수집. ultimate-food-pack은 v5.0 Low Poly Food Pack과 바이트 동일(309/309 파일)하여 제외.
+
+### Ultimate Animated Character Pack
+![Ultimate Animated Character Pack 미리보기](previews/ultimate-animated-character-pack.jpg)
+- 파일: `ultimate-animated-character-pack.zip` — 릴리스 v8.9 첨부, 4개 part 분할(`cat ultimate-animated-character-pack.zip.part* > ultimate-animated-character-pack.zip`)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-characters-pack
+- 내용: 모델 52종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### Ultimate RPG Pack
+![Ultimate RPG Pack 미리보기](previews/ultimate-rpg-pack.jpg)
+- 파일: `ultimate-rpg-pack.zip` — 릴리스 v8.9 첨부, 3개 part 분할(`cat ultimate-rpg-pack.zip.part* > ultimate-rpg-pack.zip`)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-rpg-pack
+- 내용: 모델 106종 + 아이콘 PNG 107 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); zip에 원본 License.txt(CC0) 포함, 원본 바이트 그대로
+
+### Ultimate Textured Buildings Pack
+![Ultimate Textured Buildings Pack 미리보기](previews/ultimate-textured-buildings-pack.jpg)
+- 파일: `ultimate-textured-buildings-pack.zip` — 릴리스 v8.9 첨부, 3개 part 분할(`cat ultimate-textured-buildings-pack.zip.part* > ultimate-textured-buildings-pack.zip`)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-buildings-pack
+- 내용: 모델 102종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### Ultimate Furniture Pack
+![Ultimate Furniture Pack 미리보기](previews/ultimate-furniture-pack.jpg)
+- 파일: `ultimate-furniture-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/furniture-low-poly
+- 내용: 모델 23종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### Modular Medieval Buildings Pack
+![Modular Medieval Buildings Pack 미리보기](previews/modular-medieval-buildings-pack.jpg)
+- 파일: `modular-medieval-buildings-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-medieval-buildings
+- 내용: 모델 30종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); Medieval Village MegaKit(v6.0)과 다른 팩(공통 모델명 0)
+
+### Modular Dungeon Pack
+![Modular Dungeon Pack 미리보기](previews/modular-dungeon-pack.jpg)
+- 파일: `modular-dungeon-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-modular-dungeon
+- 내용: 모델 40종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); v5.0 LowPoly Modular Dungeon Pack(48종)과 다른 버전(공통명 12종이나 바이트 상이)
+
+### Survival Pack
+![Survival Pack 미리보기](previews/survival-pack.jpg)
+- 파일: `survival-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-survival-pack
+- 내용: 모델 53종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); zip에 원본 License.txt(CC0) 포함, 원본 바이트 그대로
+
+### Pirate Kit
+![Pirate Kit 미리보기](previews/pirate-kit.jpg)
+- 파일: `pirate-kit.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-pirate-pack
+- 내용: 모델 8종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### RPG Essentials Pack
+![RPG Essentials Pack 미리보기](previews/rpg-essentials-pack.jpg)
+- 파일: `rpg-essentials-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-rpg
+- 내용: 모델 13종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### Buildings Pack
+![Buildings Pack 미리보기](previews/buildings-pack.jpg)
+- 파일: `buildings-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-buildings
+- 내용: 모델 10종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### Simple Nature Pack
+![Simple Nature Pack 미리보기](previews/simple-nature-pack.jpg)
+- 파일: `simple-nature-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-nature-pack
+- 내용: 모델 13종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); v5.0 Low Poly Nature Pack 및 Stylized Nature MegaKit과 공통 모델명 0
+
+### Textured Fantasy Nature Pack
+![Textured Fantasy Nature Pack 미리보기](previews/textured-fantasy-nature-pack.jpg)
+- 파일: `textured-fantasy-nature-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-low-poly-trees-and-bushes
+- 내용: 모델 11종 + 텍스처 PNG 12 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); v5.0 LowPoly Textured Trees와 공통 모델명 0
+
+### Animated Guns Pack
+![Animated Guns Pack 미리보기](previews/animated-guns-pack.jpg)
+- 파일: `animated-guns-pack.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-animated-guns
+- 내용: 모델 6종 × OBJ·FBX·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기)
+
+### Animated Human
+![Animated Human 미리보기](previews/animated-human.jpg)
+- 파일: `animated-human.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-human-low-poly
+- 내용: 애니메이션 인체 1종 + 스킨 텍스처 8 × OBJ·FBX·DAE·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); zip에 원본 License.txt(CC0) 포함, 원본 바이트 그대로
+
+### GunPack Vol.1
+![GunPack Vol.1 미리보기](previews/gunpack-vol1.jpg)
+- 파일: `gunpack-vol1.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-guns
+- 내용: 모델 5종 × OBJ·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); v5.0 Low Poly Guns Pack(55종)과 공통 모델명 0
+
+### Furniture Pack Vol.2
+![Furniture Pack Vol.2 미리보기](previews/furniture-pack-vol2.jpg)
+- 파일: `furniture-pack-vol2.zip` — 릴리스 v8.9 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-furniture-1
+- 내용: 모델 8종 × OBJ·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); Ultimate Furniture Pack과 3종 이름만 겹침(바이트 상이), 5종 고유
