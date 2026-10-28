@@ -567,3 +567,47 @@ OpenGameArt의 rubberduck 제작 CC0 3D 팩 10종. BLEND 원본 + 텍스처 위�
 ![Industrial Building #1 미리보기](previews/industrial-building-1.jpg)
 - 파일: `industrial-building-1.zip` — 릴리스 v8.2 첨부, 54.9MB plain split 4조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/industrial-building-1
+
+## 2026-10-28 추가 팩 5차 (릴리스 v8.3)
+
+모두 rubberduck (OpenGameArt) CC0 3D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part1+part2+... <팩명>.zip`).
+
+### Industrial Extension Pack 1: tanks
+![Industrial Extension Pack 1: tanks 미리보기](previews/industrial-extension-pack-1-tanks.jpg)
+- 파일: `industrial-extension-pack-1-tanks.zip` — 릴리스 v8.3 첨부, 36.5MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/industrial-extension-pack-1-tanks
+
+### Industrial Extension Pack 3: Factory Chimneys
+![Industrial Extension Pack 3: Factory Chimneys 미리보기](previews/industrial-extension-pack-3-factory-chimneys.jpg)
+- 파일: `industrial-extension-pack-3-factory-chimneys.zip` — 릴리스 v8.3 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/industrial-extension-pack-3-factory-chimneys
+
+### Industrial Extension Pack 4: more tanks
+![Industrial Extension Pack 4: more tanks 미리보기](previews/industrial-extension-pack-4-more-tanks.jpg)
+- 파일: `industrial-extension-pack-4-more-tanks.zip` — 릴리스 v8.3 첨부, 33.3MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/industrial-extension-pack-4-more-tanks
+
+### isometric render resource pack
+![isometric render resource pack 미리보기](previews/isometric-render-resource-pack.jpg)
+- 파일: `isometric-render-resource-pack.zip` — 릴리스 v8.3 첨부, 48.6MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-render-resource-pack
+
+### Marble Pack
+![Marble Pack 미리보기](previews/marble-pack.jpg)
+- 파일: `marble-pack.zip` — 릴리스 v8.3 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/marble-pack
+
+### modular fence pack
+![modular fence pack 미리보기](previews/modular-fence-pack.jpg)
+- 파일: `modular-fence-pack.zip` — 릴리스 v8.3 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-fence-pack
+
+### modular grassland 3D tileset
+![modular grassland 3D tileset 미리보기](previews/modular-grassland-3d-tileset.jpg)
+- 파일: `modular-grassland-3d-tileset.zip` — 릴리스 v8.3 첨부, 32MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-grassland-3d-tileset
+
+### more handpainted rocks
+![more handpainted rocks 미리보기](previews/more-handpainted-rocks.jpg)
+- 파일: `more-handpainted-rocks.zip` — 릴리스 v8.3 첨부, 34.4MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/more-handpainted-rocks
