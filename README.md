@@ -1060,3 +1060,60 @@ Drive 익명 다운로드 쿼터 차단에 따른 검증 대체 경로(OpenGameA
 - 파일: `ultimate-space-kit.zip` — 릴리스 v8.12 첨부, 단일
 - 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/ultimate-space-kit-by-quaternius
 - 내용: 모델 87종 × GLB; OGA 사용자 재업로드 미러(공식 Drive 쿼터 차단 대체), CC0 명시 페이지; 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기)
+## v8.13 — Kay Lousberg KayKit 신규 9팩 (itch.io 공식 배포, 2026-10-29)
+
+kaylousberg.itch.io 공식 배포 페이지에서 수집한 CC0 원본. Holiday Bits를 제외한 8팩은 zip에 원본 License.txt(CC0) 포함. Holiday Bits는 원본 라이선스 미동봉 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기). itch KayKit Dungeon Pack은 기존 KayKit Dungeon Remastered의 구버전(로스터 207/216 중첩)으로 확인되어 신규 게시하지 않음.
+
+### KayKit Block Bits 1.0
+![KayKit Block Bits 미리보기](previews/kaykit-block-bits.png)
+- 파일: `kaykit-block-bits.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/block-bits
+- 내용: 모델 40종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit Board Game Bits 1.0
+![KayKit Board Game Bits 미리보기](previews/kaykit-board-game-bits.png)
+- 파일: `kaykit-board-game-bits.zip` — 릴리스 v8.13 첨부, 15MB 3분할(part01-part03)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/board-game-bits
+- 내용: 모델 162종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit Fantasy Weapons Bits 1.0
+![KayKit Fantasy Weapons Bits 미리보기](previews/kaykit-fantasy-weapons-bits.png)
+- 파일: `kaykit-fantasy-weapons-bits.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/fantasy-weapons-bits
+- 내용: 모델 31종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit Holiday Bits 1.0
+![KayKit Holiday Bits 미리보기](previews/kaykit-holiday-bits.png)
+- 파일: `kaykit-holiday-bits.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/holiday-bits
+- 내용: 모델 106종 × OBJ·GLB·FBX·BLEND; 원본 라이선스 미동봉 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기)
+
+### KayKit Resource Bits 1.0
+![KayKit Resource Bits 미리보기](previews/kaykit-resource-bits.png)
+- 파일: `kaykit-resource-bits.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/resource-bits
+- 내용: 모델 76종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit RPG Tools Bits 1.0
+![KayKit RPG Tools Bits 미리보기](previews/kaykit-rpg-tools-bits.png)
+- 파일: `kaykit-rpg-tools-bits.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/rpg-tools-bits
+- 내용: 모델 59종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit Forest Nature Pack 1.0
+![KayKit Forest Nature Pack 미리보기](previews/kaykit-forest-nature-pack.png)
+- 파일: `kaykit-forest-nature-pack.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/kaykit-forest
+- 내용: 모델 105종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit Platformer Pack 1.0
+![KayKit Platformer Pack 미리보기](previews/kaykit-platformer-pack.png)
+- 파일: `kaykit-platformer-pack.zip` — 릴리스 v8.13 첨부, 15MB 2분할(part01-part02)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/kaykit-platformer
+- 내용: 모델 388종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
+
+### KayKit Character Animations 1.1
+![KayKit Character Animations 미리보기](previews/kaykit-character-animations.png)
+- 파일: `kaykit-character-animations.zip` — 릴리스 v8.13 첨부, 단일
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://kaylousberg.itch.io/kaykit-character-animations
+- 내용: 애니메이션 릭 모델 16종 × OBJ·GLB·FBX·BLEND; zip에 원본 License.txt 포함
