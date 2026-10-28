@@ -1032,3 +1032,31 @@ Kenney 공식 사이트 전수 대조로 수집한 신규 3D 킷 31종. 전부 C
 - 파일: `train-kit.zip` — 릴리스 v8.10 첨부, 단일
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/train-kit
 - 내용: 모델 309종(glTF·OBJ·FBX 등) + PNG 110; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+## v8.12 — Quaternius 3D 팩 4종 (OpenGameArt 미러 2차, 2026-10-29)
+
+Drive 익명 다운로드 쿼터 차단에 따른 검증 대체 경로(OpenGameArt) 2차 수집. 전부 CC0, 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉. Cute Animated Monsters(OGA)는 v4.0 Cute Monsters와 동일 팩의 다른 포맷으로 확인되어 신규 게시하지 않음. CC-BY-SA 3종은 정책상 제외.
+
+### Low Poly Animals Pack
+![Low Poly Animals Pack 미리보기](previews/low-poly-animals-pack.png)
+- 파일: `low-poly-animals-pack.zip` — 릴리스 v8.12 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/5-low-poly-animals
+- 내용: 모델 5종 × BLEND·FBX·OBJ + PNG; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기)
+
+### Animal Pack Vol.2
+![Animal Pack Vol.2 미리보기](previews/animal-pack-vol2.png)
+- 파일: `animal-pack-vol2.zip` — 릴리스 v8.12 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-animales-low-poly
+- 내용: 모델 5종 × BLEND·FBX·OBJ + PNG; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기)
+
+### Low Poly Space Assets
+![Low Poly Space Assets 미리보기](previews/low-poly-space-assets.png)
+- 파일: `low-poly-space-assets.zip` — 릴리스 v8.12 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-space-assets
+- 내용: 모델 13종 × BLEND·OBJ + PNG 3; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기); v4.0 Spaceships와 바이트 공통 0의 별개 팩
+
+### Ultimate Space Kit
+![Ultimate Space Kit 미리보기](previews/ultimate-space-kit.png)
+- 파일: `ultimate-space-kit.zip` — 릴리스 v8.12 첨부, 단일
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/ultimate-space-kit-by-quaternius
+- 내용: 모델 87종 × GLB; OGA 사용자 재업로드 미러(공식 Drive 쿼터 차단 대체), CC0 명시 페이지; 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0·원본 SHA-256 명기)
