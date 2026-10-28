@@ -842,3 +842,193 @@ Drive 익명 다운로드 쿼터 차단에 따른 검증 대체 경로(OpenGameA
 - 파일: `furniture-pack-vol2.zip` — 릴리스 v8.9 첨부, 단일
 - 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-furniture-1
 - 내용: 모델 8종 × OBJ·BLEND; OGA 미러 수집(Drive 쿼터 차단 대체); 원본 라이선스 미포함 → 수집자 작성 LICENSE-SOURCE.txt 동봉(출처·CC0 명기); Ultimate Furniture Pack과 3종 이름만 겹침(바이트 상이), 5종 고유
+
+## v8.10 — Kenney 3D 킷 31종 (kenney.nl 공식, 2026-10-29)
+
+Kenney 공식 사이트 전수 대조로 수집한 신규 3D 킷 31종. 전부 CC0, zip에 원본 License.txt 포함, 원본 바이트 그대로. 원격 SHA-256 검증 31/31 완료.
+
+### Animated Characters Protagonists
+![Animated Characters Protagonists 미리보기](previews/animated-characters-protagonists.png)
+- 파일: `animated-characters-protagonists.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/animated-characters-protagonists
+- 내용: 모델 4종(glTF·OBJ·FBX 등) + PNG 5; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Animated Characters Retro
+![Animated Characters Retro 미리보기](previews/animated-characters-retro.png)
+- 파일: `animated-characters-retro.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/animated-characters-retro
+- 내용: 모델 4종(glTF·OBJ·FBX 등) + PNG 5; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Animated Characters Survivors
+![Animated Characters Survivors 미리보기](previews/animated-characters-survivors.png)
+- 파일: `animated-characters-survivors.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/animated-characters-survivors
+- 내용: 모델 4종(glTF·OBJ·FBX 등) + PNG 6; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Blaster Kit
+![Blaster Kit 미리보기](previews/blaster-kit.png)
+- 파일: `blaster-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/blaster-kit
+- 내용: 모델 120종(glTF·OBJ·FBX 등) + PNG 46; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Brick Kit
+![Brick Kit 미리보기](previews/brick-kit.png)
+- 파일: `brick-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/brick-kit
+- 내용: 모델 888종(glTF·OBJ·FBX 등) + PNG 301; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Building Kit
+![Building Kit 미리보기](previews/building-kit.png)
+- 파일: `building-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/building-kit
+- 내용: 모델 237종(glTF·OBJ·FBX 등) + PNG 86; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### City Kit (Commercial)
+![City Kit (Commercial) 미리보기](previews/city-kit-commercial.png)
+- 파일: `city-kit-commercial.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/city-kit-commercial
+- 내용: 모델 123종(glTF·OBJ·FBX 등) + PNG 50; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### City Kit (Industrial)
+![City Kit (Industrial) 미리보기](previews/city-kit-industrial.png)
+- 파일: `city-kit-industrial.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/city-kit-industrial
+- 내용: 모델 111종(glTF·OBJ·FBX 등) + PNG 48; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### City Kit (Roads)
+![City Kit (Roads) 미리보기](previews/city-kit-roads.png)
+- 파일: `city-kit-roads.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/city-kit-roads
+- 내용: 모델 285종(glTF·OBJ·FBX 등) + PNG 102; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### City Kit (Suburban)
+![City Kit (Suburban) 미리보기](previews/city-kit-suburban.png)
+- 파일: `city-kit-suburban.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/city-kit-suburban
+- 내용: 모델 120종(glTF·OBJ·FBX 등) + PNG 51; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Coaster Kit
+![Coaster Kit 미리보기](previews/coaster-kit.png)
+- 파일: `coaster-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/coaster-kit
+- 내용: 모델 549종(glTF·OBJ·FBX 등) + PNG 193; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Cube Pets
+![Cube Pets 미리보기](previews/cube-pets.png)
+- 파일: `cube-pets.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/cube-pets
+- 내용: 모델 72종(glTF·OBJ·FBX 등) + PNG 28; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Factory Kit
+![Factory Kit 미리보기](previews/factory-kit.png)
+- 파일: `factory-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/factory-kit
+- 내용: 모델 429종(glTF·OBJ·FBX 등) + PNG 150; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Marble Kit
+![Marble Kit 미리보기](previews/marble-kit.png)
+- 파일: `marble-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/marble-kit
+- 내용: 모델 486종(glTF·OBJ·FBX 등) + PNG 173; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Arcade
+![Mini Arcade 미리보기](previews/mini-arcade.png)
+- 파일: `mini-arcade.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-arcade
+- 내용: 모델 60종(glTF·OBJ·FBX 등) + PNG 29; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Arena
+![Mini Arena 미리보기](previews/mini-arena.png)
+- 파일: `mini-arena.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-arena
+- 내용: 모델 66종(glTF·OBJ·FBX 등) + PNG 27; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Characters
+![Mini Characters 미리보기](previews/mini-characters.png)
+- 파일: `mini-characters.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-characters
+- 내용: 모델 78종(glTF·OBJ·FBX 등) + PNG 30; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Dungeon
+![Mini Dungeon 미리보기](previews/mini-dungeon.png)
+- 파일: `mini-dungeon.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-dungeon
+- 내용: 모델 90종(glTF·OBJ·FBX 등) + PNG 37; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Forest
+![Mini Forest 미리보기](previews/mini-forest.png)
+- 파일: `mini-forest.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-forest
+- 내용: 모델 66종(glTF·OBJ·FBX 등) + PNG 27; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Market
+![Mini Market 미리보기](previews/mini-market.png)
+- 파일: `mini-market.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-market
+- 내용: 모델 60종(glTF·OBJ·FBX 등) + PNG 29; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mini Skate
+![Mini Skate 미리보기](previews/mini-skate.png)
+- 파일: `mini-skate.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mini-skate
+- 내용: 모델 126종(glTF·OBJ·FBX 등) + PNG 49; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Modular Cave Kit
+![Modular Cave Kit 미리보기](previews/modular-cave-kit.png)
+- 파일: `modular-cave-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-cave-kit
+- 내용: 모델 120종(glTF·OBJ·FBX 등) + PNG 49; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Modular Dungeon Kit
+![Modular Dungeon Kit 미리보기](previews/modular-dungeon-kit.png)
+- 파일: `modular-dungeon-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-dungeon-kit
+- 내용: 모델 117종(glTF·OBJ·FBX 등) + PNG 48; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Modular Space Kit
+![Modular Space Kit 미리보기](previews/modular-space-kit.png)
+- 파일: `modular-space-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-space-kit
+- 내용: 모델 120종(glTF·OBJ·FBX 등) + PNG 49; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Prototype Kit
+![Prototype Kit 미리보기](previews/prototype-kit.png)
+- 파일: `prototype-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/prototype-kit
+- 내용: 모델 435종(glTF·OBJ·FBX 등) + PNG 155; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Retro Fantasy Kit
+![Retro Fantasy Kit 미리보기](previews/retro-fantasy-kit.png)
+- 파일: `retro-fantasy-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/retro-fantasy-kit
+- 내용: 모델 315종(glTF·OBJ·FBX 등) + PNG 137; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Retro Urban Kit
+![Retro Urban Kit 미리보기](previews/retro-urban-kit.png)
+- 파일: `retro-urban-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/retro-urban-kit
+- 내용: 모델 372종(glTF·OBJ·FBX 등) + PNG 192; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Space Station Kit
+![Space Station Kit 미리보기](previews/space-station-kit.png)
+- 파일: `space-station-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/space-station-kit
+- 내용: 모델 291종(glTF·OBJ·FBX 등) + PNG 104; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Survival Kit
+![Survival Kit 미리보기](previews/survival-kit.png)
+- 파일: `survival-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/survival-kit
+- 내용: 모델 240종(glTF·OBJ·FBX 등) + PNG 87; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Toy Car Kit
+![Toy Car Kit 미리보기](previews/toy-car-kit.png)
+- 파일: `toy-car-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/toy-car-kit
+- 내용: 모델 471종(glTF·OBJ·FBX 등) + PNG 171; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Train Kit
+![Train Kit 미리보기](previews/train-kit.png)
+- 파일: `train-kit.zip` — 릴리스 v8.10 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/train-kit
+- 내용: 모델 309종(glTF·OBJ·FBX 등) + PNG 110; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
