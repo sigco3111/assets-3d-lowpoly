@@ -72,3 +72,110 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 ![KayKit Space Base Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-space-base-bits-1.0.png)
 - 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-space-base-bits-1.0.zip) (6.2MB, 우주 기지 모델 glTF/OBJ/FBX)
 - 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Space-Base-Bits-1.0
+
+## 2026-10-28 추가 팩 (릴리스 v3.0)
+
+### Graveyard Kit
+![Graveyard Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/graveyard-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/graveyard-kit.zip) (3.6MB, 파일 862개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/graveyard-kit
+### Hexagon Kit
+![Hexagon Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/hexagon-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/hexagon-kit.zip) (5.7MB, 파일 951개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/hexagon-kit
+### Pirate Kit
+![Pirate Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/pirate-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/pirate-kit.zip) (5.7MB, 파일 364개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pirate-kit
+### Modular Buildings
+![Modular Buildings 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/modular-buildings.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/modular-buildings.zip) (1.4MB, 파일 314개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-buildings
+### Space Kit
+![Space Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/space-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/space-kit.zip) (5.2MB, 파일 664개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/space-kit
+### Tower Defense Kit
+![Tower Defense Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/tower-defense-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/tower-defense-kit.zip) (6.6MB, 파일 1607개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tower-defense-kit
+### Food Kit
+![Food Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/food-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/food-kit.zip) (8.3MB, 파일 2205개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/food-kit
+### Furniture Kit
+![Furniture Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/furniture-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/furniture-kit.zip) (5.2MB, 파일 1546개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/furniture-kit
+### Racing Kit
+![Racing Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/racing-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/racing-kit.zip) (6.1MB, 파일 1263개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/racing-kit
+### Platformer Kit
+![Platformer Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/platformer-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/platformer-kit.zip) (3MB, 파일 820개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-kit
+### Blocky Characters
+![Blocky Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/blocky-characters.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/blocky-characters.zip) (1.4MB, 파일 56개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/blocky-characters
+### Toon Characters
+![Toon Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/toon-characters.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/toon-characters.zip) (5.4MB, 파일 698개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/toon-characters
+### Modular Characters
+![Modular Characters 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/modular-characters.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/modular-characters.zip) (1.8MB, 파일 456개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-characters
+### Voxel Pack
+![Voxel Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/voxel-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/voxel-pack.zip) (2.2MB, 파일 211개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voxel-pack
+### Brick Pack
+![Brick Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/brick-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/brick-pack.zip) (0.2MB, 파일 115개; 공식 페이지명 Brick Pack(구 Toy brick pack))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/brick-pack
+### 3D Road Tiles
+![3D Road Tiles 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/3d-road-tiles.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/3d-road-tiles.zip) (3.7MB, 파일 915개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/3d-road-tiles
+### Watercraft Kit
+![Watercraft Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/watercraft-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/watercraft-kit.zip) (1.8MB, 파일 97개; 공식 페이지명 Watercraft Kit(구 Watercraft pack))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/watercraft-kit
+### Minigolf Kit
+![Minigolf Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/minigolf-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/minigolf-kit.zip) (1.8MB, 파일 633개 GLB/OBJ 등)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/minigolf-kit
+### Robot Pack
+![Robot Pack 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/robot-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/robot-pack.zip) (0.4MB, 파일 63개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/robot-pack
+### Prototype Textures
+![Prototype Textures 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/prototype-textures.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/prototype-textures.zip) (0.4MB, 파일 109개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/prototype-textures
+### Holiday Kit
+![Holiday Kit 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/holiday-kit.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/holiday-kit.zip) (3.6MB, 파일 543개(GLB/OBJ/STL 47종 등))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/holiday-kit
+### KayKit Furniture Bits 1.0
+![KayKit Furniture Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-furniture-bits-1.0.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-furniture-bits-1.0.zip) (1.1MB, 파일 216개 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Furniture-Bits-1.0
+### KayKit Halloween Bits 1.0
+![KayKit Halloween Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-halloween-bits-1.0.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-halloween-bits-1.0.zip) (1.9MB, 파일 270개 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Halloween-Bits-1.0
+### KayKit Medieval Hexagon Pack 1.0
+![KayKit Medieval Hexagon Pack 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-medieval-hexagon-pack-1.0.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-medieval-hexagon-pack-1.0.zip) (8.9MB, 파일 996개 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0
+### KayKit Prototype Bits 1.0
+![KayKit Prototype Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-prototype-bits-1.0.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-prototype-bits-1.0.zip) (1.5MB, 파일 302개 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0
+### KayKit Restaurant Bits 1.0
+![KayKit Restaurant Bits 1.0 미리보기](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-restaurant-bits-1.0.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-restaurant-bits-1.0.zip) (3.8MB, 파일 592개 glTF/OBJ/FBX)
+- 제작: Kay Lousberg / 라이선스: CC0 / 원본: https://github.com/KayKit-Game-Assets/KayKit-Restaurant-Bits-1.0
