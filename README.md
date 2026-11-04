@@ -316,6 +316,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-rpg-characters.zip) (19.1MB, png 51개 · blend 4개 · txt 2개)
 - 제작: buttons / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-rpg-characters
 
+### Rabbit
+![Rabbit 미리보기](previews/rabbit-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rabbit-0.zip) (16.6MB, png 4개 · txt 1개 · blend 1개 · fbx 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/rabbit-0
+
+### Desert Rock
+![Desert Rock 미리보기](previews/desert-rock.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//desert-rock.zip) (7.2MB, png 5개 · obj 1개)
+- 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/desert-rock
+
+### Food Pack
+![Food Pack 미리보기](previews/food-pack-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//food-pack-0.zip) (11.2MB, blend 1개 · png 1개)
+- 제작: Trevor Lentz / 라이선스: CC0 / 원본: https://opengameart.org/content/food-pack-0
+
+### Wooden Bridge
+![Wooden Bridge 미리보기](previews/wooden-bridge-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//wooden-bridge-0.zip) (269KB, png 2개 · blend 1개 · obj 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/wooden-bridge-0
+
+### Tropical plant 02
+![Tropical plant 02 미리보기](previews/tropical-plant-02-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tropical-plant-02-0.zip) (7.6MB, jpg 2개 · fbx 1개 · obj 1개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/tropical-plant-02-0
+
+### Crate & Barrel bundle
+![Crate & Barrel bundle 미리보기](previews/crate-barrel-bundle.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//crate-barrel-bundle.zip) (4.8MB, png 4개 · obj 2개 · jpg 2개)
+- 제작: smoke_th / 라이선스: CC0 / 원본: https://opengameart.org/content/crate-barrel-bundle
+
+### Very Low Poly Human
+![Very Low Poly Human 미리보기](previews/very-low-poly-human.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//very-low-poly-human.zip) (57KB, png 1개 · blend 1개)
+- 제작: Prinsu-Kun / 라이선스: CC0 / 원본: https://opengameart.org/content/very-low-poly-human
+
+### Free Hi-Tech Sci-Fi IT thing
+![Free Hi-Tech Sci-Fi IT thing 미리보기](previews/free-hi-tech-sci-fi-it-thing.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-hi-tech-sci-fi-it-thing.zip) (3.8MB, jpg 2개 · fbx 2개 · obj 2개 · txt 1개)
+- 제작: Moviemake / 라이선스: CC0 / 원본: https://opengameart.org/content/free-hi-tech-sci-fi-it-thing
+
+### Fox and Shiba
+![Fox and Shiba 미리보기](previews/fox-and-shiba.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fox-and-shiba.zip) (4.2MB, png 3개)
+- 제작: 6666 / 라이선스: CC0 / 원본: https://opengameart.org/content/fox-and-shiba
+
+### RPG Item collection 1
+![RPG Item collection 1 미리보기](previews/rpg-item-collection-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rpg-item-collection-1.zip) (4.7MB, png 17개 · obj 8개 · jpg 3개 · blend 1개)
+- 제작: Lee Davis / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-item-collection-1
+
+### RPG Item collection 2
+![RPG Item collection 2 미리보기](previews/rpg-item-collection-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rpg-item-collection-2.zip) (6.2MB, png 17개 · obj 8개 · jpg 3개 · blend 1개)
+- 제작: RmateHadi / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-item-collection-2
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
