@@ -631,6 +631,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//cardboards-pack.zip) (4.2MB, obj 3개 · fbx 3개 · jpg 2개 · txt 1개)
 - 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cardboards-pack
 
+### LowPoly Medieval Village Pack
+![LowPoly Medieval Village Pack 미리보기](previews/lowpoly-medieval-village-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//lowpoly-medieval-village-pack.zip) (9.4MB, obj 44개 · fbx 44개 · blend 44개 · jpg 2개 · txt 1개)
+- 제작: tir2 / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-medieval-village-pack
+
+### Rooster (Animated)
+![Rooster (Animated) 미리보기](previews/rooster-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rooster-animated.zip) (10.3MB, png 6개 · blend 1개 · txt 1개)
+- 제작: abdolama / 라이선스: CC0 / 원본: https://opengameart.org/content/rooster-animated
+
+### Low poly character (+Blend File)
+![Low poly character (+Blend File) 미리보기](previews/low-poly-character-blend-file.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-character-blend-file.zip) (936KB, png 7개 · fbx 1개 · blend 1개 · jpg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-character-blend-file
+
+### Superpowers assets 3D stuff
+![Superpowers assets 3D stuff 미리보기](previews/superpowers-assets-3d-stuff.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//superpowers-assets-3d-stuff.zip) (9.8MB, png 115개 · obj 32개 · blend 20개 · gltf 9개 · txt 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-3d-stuff
+
+### Tiby 3D rigged model
+![Tiby 3D rigged model 미리보기](previews/tiby-3d-rigged-model.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tiby-3d-rigged-model.zip) (3.4MB, png 10개 · blend 3개 · fbx 3개)
+- 제작: bambooman / 라이선스: CC0 / 원본: https://opengameart.org/content/tiby-3d-rigged-model
+
+### 3TD Furniture Pack
+![3TD Furniture Pack 미리보기](previews/3td-furniture-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-furniture-pack.zip) (3.0MB, jpg 21개)
+- 제작: reeguy / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-furniture-pack
+
+### Butterfly (animated)
+![Butterfly (animated) 미리보기](previews/butterfly-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//butterfly-animated.zip) (680KB, png 3개 · txt 1개 · blend 1개)
+- 제작: Zuxal / 라이선스: CC0 / 원본: https://opengameart.org/content/butterfly-animated
+
+### Starship Corvette
+![Starship Corvette 미리보기](previews/starship-corvette.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//starship-corvette.zip) (326KB, png 1개 · blend 1개)
+- 제작: Sindwiller / 라이선스: CC0 / 원본: https://opengameart.org/content/starship-corvette
+
+### Medieval Props Pack 3
+![Medieval Props Pack 3 미리보기](previews/medieval-props-pack-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-props-pack-3.zip) (7.8MB, jpg 11개 · png 1개 · txt 1개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-props-pack-3
+
+### Cute prop models
+![Cute prop models 미리보기](previews/cute-prop-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//cute-prop-models.zip) (1.8MB, obj 9개 · png 6개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/cute-prop-models
+
+### Money
+![Money 미리보기](previews/money.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//money.zip) (20.5MB, obj 8개 · fbx 8개 · jpg 2개 · txt 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/money
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
