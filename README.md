@@ -471,6 +471,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-bamboo-v1.zip) (2.3MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
 - 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/free-bamboo-v1
 
+### LowPoly RPG Characters
+![LowPoly RPG Characters 미리보기](previews/lowpoly-rpg-characters.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//lowpoly-rpg-characters.zip) (13.4MB, obj 12개 · fbx 12개 · blend 11개 · png 11개 · jpg 2개)
+- 제작: BribeLedenicki / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-rpg-characters
+
+### Modular House - 3D Models
+![Modular House - 3D Models 미리보기](previews/modular-house-3d-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-house-3d-models.zip) (2.3MB, obj 200개 · jpg 10개)
+- 제작: Cougarmint / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-house-3d-models
+
+### Metal Barrels Pack
+![Metal Barrels Pack 미리보기](previews/metal-barrels-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//metal-barrels-pack.zip) (22.5MB, jpg 2개 · fbx 1개 · obj 1개 · txt 1개)
+- 제작: fabiosarts / 라이선스: CC0 / 원본: https://opengameart.org/content/metal-barrels-pack
+
+### SciFi Girl
+![SciFi Girl 미리보기](previews/scifi-girl.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//scifi-girl.zip) (1.0MB, png 7개 · blend 1개)
+- 제작: DeadDog / 라이선스: CC0 / 원본: https://opengameart.org/content/scifi-girl
+
+### Free Handpainted Plants
+![Free Handpainted Plants 미리보기](previews/free-handpainted-plants.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-handpainted-plants.zip) (5.1MB, obj 15개 · fbx 15개 · jpg 5개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-handpainted-plants
+
+### Free LowPoly Rocks set02
+![Free LowPoly Rocks set02 미리보기](previews/free-lowpoly-rocks-set02.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-lowpoly-rocks-set02.zip) (1.4MB, obj 21개 · fbx 21개 · jpg 2개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-lowpoly-rocks-set02
+
+### Free palm treeZ v3
+![Free palm treeZ v3 미리보기](previews/free-palm-treez-v3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-palm-treez-v3.zip) (27.2MB, fbx 5개 · obj 5개 · jpg 2개 · txt 1개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/free-palm-treez-v3
+
+### Five Tools CC0
+![Five Tools CC0 미리보기](previews/five-tools-cc0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//five-tools-cc0.zip) (5.7MB, blend 1개 · png 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/five-tools-cc0
+
+### Modular Racetrack - 3D Models
+![Modular Racetrack - 3D Models 미리보기](previews/modular-racetrack-3d-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-racetrack-3d-models.zip) (780KB, obj 20개 · jpg 6개)
+- 제작: Keith at Fertil... / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-racetrack-3d-models
+
+### Low poly furniture
+![Low poly furniture 미리보기](previews/low-poly-furniture.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-furniture.zip) (310KB, blend 2개 · jpg 2개)
+- 제작: manwesulimo2004 / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-furniture
+
+### lava golem
+![lava golem 미리보기](previews/lava-golem.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//lava-golem.zip) (2.3MB, png 1개 · blend 1개)
+- 제작: Beast / 라이선스: CC0 / 원본: https://opengameart.org/content/lava-golem
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
