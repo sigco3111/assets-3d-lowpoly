@@ -1051,6 +1051,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//pirate-sword-animated.zip) (27.6MB, png 11개 · fbx 2개 · blend 2개)
 - 제작: Drummyfish / 라이선스: CC0 / 원본: https://opengameart.org/content/pirate-sword-animated
 
+### 3D City
+![3D City 미리보기](previews/3d-city.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-city.zip) (4.6MB, jpg 2개 · blend 1개 · png 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-city
+
+### Modular Medieval House Pack 03
+![Modular Medieval House Pack 03 미리보기](previews/modular-medieval-house-pack-03.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-medieval-house-pack-03.zip) (168.4MB, blend 32개 · png 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-medieval-house-pack-03
+
+### 86 Household items
+![86 Household items 미리보기](previews/86-household-items.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//86-household-items.zip) (2.1MB, png 1개 · jpg 1개 · obj 1개 · fbx 1개)
+- 제작: vlandemart / 라이선스: CC0 / 원본: https://opengameart.org/content/86-household-items
+
+### Weapon Box Pack
+![Weapon Box Pack 미리보기](previews/weapon-box-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//weapon-box-pack.zip) (3.8MB, jpg 2개 · fbx 1개 · txt 1개 · obj 1개)
+- 제작: biglew / 라이선스: CC0 / 원본: https://opengameart.org/content/weapon-box-pack
+
+### Iron Knife
+![Iron Knife 미리보기](previews/iron-knife.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//iron-knife.zip) (13.1MB, png 4개 · jpg 1개 · blend 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/iron-knife
+
+### Bag of coins
+![Bag of coins 미리보기](previews/bag-of-coins.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//bag-of-coins.zip) (5.5MB, png 1개 · blend 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/bag-of-coins
+
+### Wooden Furnitures
+![Wooden Furnitures 미리보기](previews/wooden-furnitures.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//wooden-furnitures.zip) (154.2MB, fbx 106개 · png 21개 · txt 2개 · blend 2개 · gltf 2개)
+- 제작: glitchart / 라이선스: CC0 / 원본: https://opengameart.org/content/wooden-furnitures
+
+### Medieval Tavern Props Pack
+![Medieval Tavern Props Pack 미리보기](previews/medieval-tavern-props-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-tavern-props-pack.zip) (4.6MB, png 21개 · txt 1개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-tavern-props-pack
+
+### Frog Guy
+![Frog Guy 미리보기](previews/frog-guy.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//frog-guy.zip) (2.9MB, png 5개 · obj 1개 · blend 1개)
+- 제작: ARoachIFoundOnM... / 라이선스: CC0 / 원본: https://opengameart.org/content/frog-guy
+
+### Free 3D plants models
+![Free 3D plants models 미리보기](previews/free-3d-plants-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-3d-plants-models.zip) (723KB, fbx 5개 · obj 5개 · jpg 2개 · txt 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/free-3d-plants-models
+
+### Watchtower-Wood
+![Watchtower-Wood 미리보기](previews/watchtower-wood.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//watchtower-wood.zip) (10.2MB, png 3개 · txt 1개 · blend 1개)
+- 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/watchtower-wood
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
