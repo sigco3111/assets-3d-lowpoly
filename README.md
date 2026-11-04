@@ -891,6 +891,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//book.zip) (324KB, png 2개 · blend 1개)
 - 제작: Unavailable / 라이선스: CC0 / 원본: https://opengameart.org/content/book
 
+### Game Crates
+![Game Crates 미리보기](previews/game-crates.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//game-crates.zip) (14.1MB, jpg 2개 · blend 1개)
+- 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/game-crates
+
+### Deer Low Poly (rigged)
+![Deer Low Poly (rigged) 미리보기](previews/deer-low-poly-rigged.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//deer-low-poly-rigged.zip) (2.8MB, png 4개 · blend 4개 · obj 1개)
+- 제작: ohaizac / 라이선스: CC0 / 원본: https://opengameart.org/content/deer-low-poly-rigged
+
+### 3D Swords Pack
+![3D Swords Pack 미리보기](previews/3d-swords-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-swords-pack.zip) (3.2MB, fbx 9개 · blend 9개 · obj 9개 · png 2개)
+- 제작: Mophs / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-swords-pack
+
+### Bed (low poly)
+![Bed (low poly) 미리보기](previews/bed-low-poly.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//bed-low-poly.zip) (403KB, blend 1개 · png 1개)
+- 제작: ceninan / 라이선스: CC0 / 원본: https://opengameart.org/content/bed-low-poly
+
+### FBX + Blend LowPoly animated slime
+![FBX + Blend LowPoly animated slime 미리보기](previews/fbx-blend-lowpoly-animated-slime.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fbx-blend-lowpoly-animated-slime.zip) (10.2MB, png 13개 · blend 1개 · fbx 1개)
+- 제작: raaaahman / 라이선스: CC0 / 원본: https://opengameart.org/content/fbx-blend-lowpoly-animated-slime
+
+### Gaz Tank Pack
+![Gaz Tank Pack 미리보기](previews/gaz-tank-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//gaz-tank-pack.zip) (5.9MB, jpg 2개 · fbx 1개 · obj 1개 · txt 1개)
+- 제작: kurt / 라이선스: CC0 / 원본: https://opengameart.org/content/gaz-tank-pack
+
+### 3D LowPoly Spaceships and Components
+![3D LowPoly Spaceships and Components 미리보기](previews/3d-lowpoly-spaceships-and-components.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-lowpoly-spaceships-and-components.zip) (11.1MB, png 15개 · fbx 3개 · blend 1개 · txt 1개)
+- 제작: gerbin / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-lowpoly-spaceships-and-components
+
+### Animated Characters 2
+![Animated Characters 2 미리보기](previews/animated-characters-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//animated-characters-2.zip) (629KB, png 6개 · fbx 4개 · svg 4개 · txt 1개)
+- 제작: Moviemake / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-characters-2
+
+### Shipyard
+![Shipyard 미리보기](previews/shipyard.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//shipyard.zip) (7.3MB, blend 1개 · jpg 1개)
+- 제작: farcodev / 라이선스: CC0 / 원본: https://opengameart.org/content/shipyard
+
+### Mage Tower
+![Mage Tower 미리보기](previews/mage-tower.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mage-tower.zip) (3.5MB, blend 1개 · png 1개)
+- 제작: vlzvl / 라이선스: CC0 / 원본: https://opengameart.org/content/mage-tower
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
