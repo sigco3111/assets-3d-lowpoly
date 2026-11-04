@@ -996,6 +996,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mayflower.zip) (2.1MB, png 2개 · obj 1개 · jpg 1개)
 - 제작: AnthonyMyers / 라이선스: CC0 / 원본: https://opengameart.org/content/mayflower
 
+### 3d Greek Weapons Set
+![3d Greek Weapons Set 미리보기](previews/3d-greek-weapons-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-greek-weapons-set.zip) (2.4MB, obj 6개 · jpg 3개 · png 1개 · txt 1개)
+- 제작: raymoohawk / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-greek-weapons-set
+
+### Low Poly Furniture
+![Low Poly Furniture 미리보기](previews/low-poly-furniture-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-furniture-0.zip) (1.8MB, obj 20개 · blend 20개 · png 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-furniture-0
+
+### Low Poly Forest Pack
+![Low Poly Forest Pack 미리보기](previews/low-poly-forest-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-forest-pack.zip) (11.0MB, obj 58개 · fbx 58개 · png 12개 · jpg 8개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-forest-pack
+
+### Ammo Box Pack
+![Ammo Box Pack 미리보기](previews/ammo-box-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//ammo-box-pack.zip) (5.8MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: biglew / 라이선스: CC0 / 원본: https://opengameart.org/content/ammo-box-pack
+
+### Free Trashes
+![Free Trashes 미리보기](previews/free-trashes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-trashes.zip) (35.2MB, jpg 7개 · fbx 5개 · obj 5개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/free-trashes
+
+### Daemon statue with rig+animations
+![Daemon statue with rig+animations 미리보기](previews/daemon-statue-with-riganimations.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//daemon-statue-with-riganimations.zip) (2.7MB, png 3개 · blend 1개)
+- 제작: ryan.dansie / 라이선스: CC0 / 원본: https://opengameart.org/content/daemon-statue-with-riganimations
+
+### Desert - Low Poly Toon Battle Arena / Tower Defense Pack
+![Desert - Low Poly Toon Battle Arena / Tower Defense Pack 미리보기](previews/desert-low-poly-toon-battle-arena-tower-defense-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//desert-low-poly-toon-battle-arena-tower-defense-pack.zip) (4.1MB, fbx 46개 · png 5개 · jpg 1개 · txt 1개)
+- 제작: JanaChumi / 라이선스: CC0 / 원본: https://opengameart.org/content/desert-low-poly-toon-battle-arena-tower-defense-pack
+
+### Fox - Trees Pack
+![Fox - Trees Pack 미리보기](previews/fox-trees-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fox-trees-pack.zip) (6.7MB, png 12개 · blend 9개 · obj 9개)
+- 제작: kooow / 라이선스: CC0 / 원본: https://opengameart.org/content/fox-trees-pack
+
+### Skeleton Outlaw 3D Character
+![Skeleton Outlaw 3D Character 미리보기](previews/skeleton-outlaw-3d-character.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//skeleton-outlaw-3d-character.zip) (7.0MB, fbx 15개 · png 4개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/skeleton-outlaw-3d-character
+
+### Modular Medieval House Pack 02
+![Modular Medieval House Pack 02 미리보기](previews/modular-medieval-house-pack-02.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-medieval-house-pack-02.zip) (84.8MB, blend 16개 · png 5개)
+- 제작: Chris_M_The_Gam... / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-medieval-house-pack-02
+
+### Pirate Sword (Animated)
+![Pirate Sword (Animated) 미리보기](previews/pirate-sword-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//pirate-sword-animated.zip) (27.6MB, png 11개 · fbx 2개 · blend 2개)
+- 제작: Drummyfish / 라이선스: CC0 / 원본: https://opengameart.org/content/pirate-sword-animated
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
