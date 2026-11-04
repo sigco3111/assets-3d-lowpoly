@@ -1106,6 +1106,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//watchtower-wood.zip) (10.2MB, png 3개 · txt 1개 · blend 1개)
 - 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/watchtower-wood
 
+### 3TD Office Starter Pack
+![3TD Office Starter Pack 미리보기](previews/3td-office-starter-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-office-starter-pack.zip) (5.2MB, jpg 37개)
+- 제작: Chris_M_The_Gam... / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-office-starter-pack
+
+### Big LowPoly Environment Pack
+![Big LowPoly Environment Pack 미리보기](previews/big-lowpoly-environment-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//big-lowpoly-environment-pack.zip) (12.0MB, png 14개 · fbx 1개 · obj 1개 · blend 1개)
+- 제작: Pong Man / 라이선스: CC0 / 원본: https://opengameart.org/content/big-lowpoly-environment-pack
+
+### Little Slime
+![Little Slime 미리보기](previews/little-slime.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//little-slime.zip) (823KB, jpg 2개 · png 2개 · blend 1개)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/little-slime
+
+### Oldschool AFPS Weapons
+![Oldschool AFPS Weapons 미리보기](previews/oldschool-afps-weapons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//oldschool-afps-weapons.zip) (30.3MB, png 12개 · obj 9개 · blend 1개)
+- 제작: FiveBrosStopMosYT / 라이선스: CC0 / 원본: https://opengameart.org/content/oldschool-afps-weapons
+
+### Potion Bottle
+![Potion Bottle 미리보기](previews/potion-bottle-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//potion-bottle-0.zip) (20.2MB, png 24개 · fbx 1개)
+- 제작: Grahhhhh / 라이선스: CC0 / 원본: https://opengameart.org/content/potion-bottle-0
+
+### old windmill
+![old windmill 미리보기](previews/old-windmill.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//old-windmill.zip) (767KB, blend 1개 · png 1개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/old-windmill
+
+### Medieval Props Pack 1
+![Medieval Props Pack 1 미리보기](previews/medieval-props-pack-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-props-pack-1.zip) (3.6MB, png 4개 · jpg 3개 · txt 1개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-props-pack-1
+
+### Bird (Yellow-Billed Shrike)
+![Bird (Yellow-Billed Shrike) 미리보기](previews/bird-yellow-billed-shrike.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//bird-yellow-billed-shrike.zip) (12.0MB, png 8개 · blend 1개)
+- 제작: pistachio / 라이선스: CC0 / 원본: https://opengameart.org/content/bird-yellow-billed-shrike
+
+### Low Poly Knight
+![Low Poly Knight 미리보기](previews/low-poly-knight.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-knight.zip) (262KB, png 1개 · blend 1개)
+- 제작: MasterXENON / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-knight
+
+### Simple Cat
+![Simple Cat 미리보기](previews/simple-cat.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//simple-cat.zip) (1.6MB, png 6개 · blend 1개 · obj 1개)
+- 제작: Puffolotti / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-cat
+
+### Low-spec Reticulans
+![Low-spec Reticulans 미리보기](previews/low-spec-reticulans.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-spec-reticulans.zip) (167KB, blend 1개 · png 1개)
+- 제작: Danimal / 라이선스: CC0 / 원본: https://opengameart.org/content/low-spec-reticulans
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
