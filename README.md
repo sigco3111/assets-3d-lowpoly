@@ -421,6 +421,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fish-animated.zip) (3.0MB, png 2개 · txt 1개 · blend 1개)
 - 제작: XaosXV / 라이선스: CC0 / 원본: https://opengameart.org/content/fish-animated
 
+### 3TD Tropical Environment Pack v2.0
+![3TD Tropical Environment Pack v2.0 미리보기](previews/3td-tropical-environment-pack-v20.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-tropical-environment-pack-v20.zip) (135.5MB, png 98개 · jpg 83개 · ogg 11개)
+- 제작: sysgod / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-tropical-environment-pack-v20
+
+### Treasure Pack
+![Treasure Pack 미리보기](previews/treasure-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//treasure-pack.zip) (11.1MB, fbx 68개 · blend 68개 · obj 68개 · png 3개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/treasure-pack
+
+### Stone coffin
+![Stone coffin 미리보기](previews/stone-coffin.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//stone-coffin.zip) (1.7MB, jpg 2개 · obj 1개 · txt 1개 · fbx 1개)
+- 제작: yd / 라이선스: CC0 / 원본: https://opengameart.org/content/stone-coffin
+
+### Palm tree v2
+![Palm tree v2 미리보기](previews/palm-tree-v2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//palm-tree-v2.zip) (4.3MB, jpg 2개 · fbx 1개 · txt 1개 · obj 1개)
+- 제작: manwesulimo2004 / 라이선스: CC0 / 원본: https://opengameart.org/content/palm-tree-v2
+
+### Chest (Animated)
+![Chest (Animated) 미리보기](previews/chest-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//chest-animated.zip) (7.0MB, png 2개 · blend 1개)
+- 제작: wobba89 / 라이선스: CC0 / 원본: https://opengameart.org/content/chest-animated
+
+### Blender models for Freeciv units
+![Blender models for Freeciv units 미리보기](previews/blender-models-for-freeciv-units.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//blender-models-for-freeciv-units.zip) (25.0MB, blend 51개 · png 3개)
+- 제작: verbalshadow / 라이선스: CC0 / 원본: https://opengameart.org/content/blender-models-for-freeciv-units
+
+### 3TD Starter Pack #1
+![3TD Starter Pack #1 미리보기](previews/3td-starter-pack-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-starter-pack-1.zip) (24.2MB, png 39개 · jpg 12개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-starter-pack-1
+
+### Free LowPoly Rocks set01
+![Free LowPoly Rocks set01 미리보기](previews/free-lowpoly-rocks-set01.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-lowpoly-rocks-set01.zip) (1.8MB, obj 40개 · fbx 40개 · jpg 2개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-lowpoly-rocks-set01
+
+### Abstract City
+![Abstract City 미리보기](previews/abstract-city.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//abstract-city.zip) (5.7MB, png 3개 · obj 3개 · txt 1개)
+- 제작: Mumu / 라이선스: CC0 / 원본: https://opengameart.org/content/abstract-city
+
+### Free Bamboo v1
+![Free Bamboo v1 미리보기](previews/free-bamboo-v1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-bamboo-v1.zip) (2.3MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/free-bamboo-v1
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
