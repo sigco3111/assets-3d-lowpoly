@@ -141,6 +141,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rocks-03.zip) (26.2MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
 - 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/rocks-03
 
+### low poly rocks
+![low poly rocks 미리보기](previews/low-poly-rocks.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-rocks.zip) (147.1MB, obj 6개 · png 3개 · jpg 1개)
+- 제작: kheftel / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-rocks
+
+### Grass Pack #03
+![Grass Pack #03 미리보기](previews/grass-pack-03.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//grass-pack-03.zip) (1.6MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: Pompei2 / 라이선스: CC0 / 원본: https://opengameart.org/content/grass-pack-03
+
+### Medieval House Pack
+![Medieval House Pack 미리보기](previews/medieval-house-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-house-pack.zip) (32.3MB, jpg 10개 · blend 4개 · png 1개)
+- 제작: Lucian Pavel / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-house-pack
+
+### Forest Monster
+![Forest Monster 미리보기](previews/forest-monster.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//forest-monster.zip) (43.0MB, png 9개 · blend 1개 · txt 1개)
+- 제작: Alopex / 라이선스: CC0 / 원본: https://opengameart.org/content/forest-monster
+
+### Modular (3D) buildings
+![Modular (3D) buildings 미리보기](previews/modular-3d-buildings.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-3d-buildings.zip) (1.8MB, obj 101개 · png 5개 · txt 2개)
+- 제작: Yorwan / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-3d-buildings
+
+### Chicken (animated)
+![Chicken (animated) 미리보기](previews/chicken-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//chicken-animated.zip) (7.1MB, png 3개 · blend 1개 · jpg 1개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/chicken-animated
+
+### Low-poly human male
+![Low-poly human male 미리보기](previews/low-poly-human-male.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-human-male.zip) (356KB, png 4개 · blend 1개)
+- 제작: Mev Lyshkin / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-human-male
+
+### Chest Blizzard style
+![Chest Blizzard style 미리보기](previews/chest-blizzard-style.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//chest-blizzard-style.zip) (3.2MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: Beast / 라이선스: CC0 / 원본: https://opengameart.org/content/chest-blizzard-style
+
+### Tiny weeds
+![Tiny weeds 미리보기](previews/tiny-weeds.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tiny-weeds.zip) (5.1MB, obj 5개 · fbx 5개 · jpg 2개 · txt 1개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-weeds
+
+### Rocks 02
+![Rocks 02 미리보기](previews/rocks-02.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rocks-02.zip) (26.0MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: vk / 라이선스: CC0 / 원본: https://opengameart.org/content/rocks-02
+
+### Modular Medieval Building Pack
+![Modular Medieval Building Pack 미리보기](previews/modular-medieval-building-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-medieval-building-pack.zip) (27.2MB, jpg 62개 · blend 10개)
+- 제작: dennydenning / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-medieval-building-pack
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
