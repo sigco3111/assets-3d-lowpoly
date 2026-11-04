@@ -31,6 +31,71 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - v1.0: Kenney Fantasy Town Kit, Nature Kit
 - v1.1: KayKit Adventurers, Dungeon Remastered
 
+### Modular Dungeon 2 - 3D Models
+![Modular Dungeon 2 - 3D Models 미리보기](previews/modular-dungeon-2-3d-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-dungeon-2-3d-models.zip) (1.4MB, obj 90개 · jpg 10개)
+- 제작: Matei511 / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-dungeon-2-3d-models
+
+### Nature Kit
+![Nature Kit 미리보기](previews/nature-kit.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//nature-kit.zip) (10.5MB, png 1642개 · obj 329개 · glb 329개 · fbx 329개 · txt 1개)
+- 제작: Luca Pixel / 라이선스: CC0 / 원본: https://opengameart.org/content/nature-kit
+
+### Modular Terrain
+![Modular Terrain 미리보기](previews/modular-terrain.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-terrain.zip) (4.7MB, obj 132개 · png 6개 · jpg 2개)
+- 제작: Keith at Fertil... / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-terrain
+
+### Free Wooden Crates
+![Free Wooden Crates 미리보기](previews/free-wooden-crates.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-wooden-crates.zip) (2.7MB, fbx 5개 · obj 5개 · jpg 2개 · txt 1개)
+- 제작: cdgramos / 라이선스: CC0 / 원본: https://opengameart.org/content/free-wooden-crates
+
+### Landscape Asset v2
+![Landscape Asset v2 미리보기](previews/landscape-asset-v2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//landscape-asset-v2.zip) (1.2MB, obj 57개 · txt 2개 · jpg 2개 · blend 1개)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/landscape-asset-v2
+
+### Stylish plants
+![Stylish plants 미리보기](previews/stylish-plants.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//stylish-plants.zip) (5.1MB, jpg 7개 · fbx 5개 · obj 5개 · txt 1개)
+- 제작: Skorpio / 라이선스: CC0 / 원본: https://opengameart.org/content/stylish-plants
+
+### 3TD Fantasy Ruins Pack
+![3TD Fantasy Ruins Pack 미리보기](previews/3td-fantasy-ruins-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-fantasy-ruins-pack.zip) (33.1MB, jpg 52개 · png 35개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-fantasy-ruins-pack
+
+### Rocks
+![Rocks 미리보기](previews/rocks-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rocks-0.zip) (103.8MB, jpg 7개 · obj 5개 · fbx 5개 · txt 1개)
+- 제작: 불명 (OGA 계정 삭제됨) / 라이선스: CC0 / 원본: https://opengameart.org/content/rocks-0
+
+### Furniture Kit
+![Furniture Kit 미리보기](previews/furniture-kit.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//furniture-kit.zip) (5.8MB, png 606개 · obj 120개 · fbx 120개 · txt 1개)
+- 제작: QudTheCat / 라이선스: CC0 / 원본: https://opengameart.org/content/furniture-kit
+
+### Tiny weeds 3
+![Tiny weeds 3 미리보기](previews/tiny-weeds-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tiny-weeds-3.zip) (10.2MB, obj 8개 · fbx 8개 · jpg 6개 · txt 1개)
+- 제작: riidom / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-weeds-3
+
+### Free Hedges
+![Free Hedges 미리보기](previews/free-hedges.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-hedges.zip) (14.1MB, obj 5개 · fbx 5개 · jpg 2개 · txt 1개)
+- 제작: cdgramos / 라이선스: CC0 / 원본: https://opengameart.org/content/free-hedges
+
+### Modular building asset
+![Modular building asset 미리보기](previews/modular-building-asset-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-building-asset-0.zip) (87.7MB, fbx 34개 · obj 34개 · jpg 2개 · txt 1개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-building-asset-0
+
+### Bushes
+![Bushes 미리보기](previews/bushes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//bushes.zip) (18.4MB, jpg 7개 · fbx 5개 · obj 5개 · txt 1개)
+- 제작: TylerJessilynn / 라이선스: CC0 / 원본: https://opengameart.org/content/bushes
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
