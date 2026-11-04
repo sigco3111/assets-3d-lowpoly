@@ -276,6 +276,46 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//knight-statue.zip) (3.0MB, blend 2개 · png 2개)
 - 제작: Charlie / 라이선스: CC0 / 원본: https://opengameart.org/content/knight-statue
 
+### Tiny weeds 2
+![Tiny weeds 2 미리보기](previews/tiny-weeds-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tiny-weeds-2.zip) (7.5MB, jpg 9개 · fbx 7개 · obj 7개 · txt 1개)
+- 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-weeds-2
+
+### Treasure Chest
+![Treasure Chest 미리보기](previews/treasure-chest-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//treasure-chest-3.zip) (2.3MB, png 3개 · jpg 2개 · obj 1개 · fbx 1개)
+- 제작: cdoty / 라이선스: CC0 / 원본: https://opengameart.org/content/treasure-chest-3
+
+### Cethiel's Weapons 3D
+![Cethiel's Weapons 3D 미리보기](previews/cethiels-weapons-3d.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//cethiels-weapons-3d.zip) (5.9MB, png 45개 · obj 14개 · blend 2개 · jpg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/cethiels-weapons-3d
+
+### Cethiel's Dragon 3D
+![Cethiel's Dragon 3D 미리보기](previews/cethiels-dragon-3d.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//cethiels-dragon-3d.zip) (6.2MB, png 7개 · blend 2개 · obj 1개)
+- 제작: kooow / 라이선스: CC0 / 원본: https://opengameart.org/content/cethiels-dragon-3d
+
+### Knight lying
+![Knight lying 미리보기](previews/knight-lying.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//knight-lying.zip) (1.5MB, blend 1개 · png 1개)
+- 제작: manwesulimo2004 / 라이선스: CC0 / 원본: https://opengameart.org/content/knight-lying
+
+### Grass Pack #01
+![Grass Pack #01 미리보기](previews/grass-pack-01.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//grass-pack-01.zip) (1.8MB, jpg 2개 · fbx 1개 · obj 1개 · txt 1개)
+- 제작: ronybeck / 라이선스: CC0 / 원본: https://opengameart.org/content/grass-pack-01
+
+### BA-2 (Blast All Bot Mark 2)
+![BA-2 (Blast All Bot Mark 2) 미리보기](previews/ba-2-blast-all-bot-mark-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//ba-2-blast-all-bot-mark-2.zip) (16.5MB, jpg 2개 · blend 1개 · txt 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/ba-2-blast-all-bot-mark-2
+
+### Modular RPG Characters
+![Modular RPG Characters 미리보기](previews/modular-rpg-characters.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-rpg-characters.zip) (19.1MB, png 51개 · blend 4개 · txt 2개)
+- 제작: buttons / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-rpg-characters
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
