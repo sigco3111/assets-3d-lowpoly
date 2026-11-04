@@ -686,6 +686,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//money.zip) (20.5MB, obj 8개 · fbx 8개 · jpg 2개 · txt 1개)
 - 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/money
 
+### Low-poly human female
+![Low-poly human female 미리보기](previews/low-poly-human-female.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-human-female.zip) (362KB, png 4개 · blend 1개)
+- 제작: GiggaWatt / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-human-female
+
+### Medieval Waterpowered Sawmill
+![Medieval Waterpowered Sawmill 미리보기](previews/medieval-waterpowered-sawmill.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-waterpowered-sawmill.zip) (1.9MB, jpg 5개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-waterpowered-sawmill
+
+### Sci-fi soldier
+![Sci-fi soldier 미리보기](previews/sci-fi-soldier.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//sci-fi-soldier.zip) (60.1MB, png 12개 · jpg 1개 · fbx 1개 · blend 1개)
+- 제작: josepharaoh99 / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-soldier
+
+### Scrolls
+![Scrolls 미리보기](previews/scrolls-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//scrolls-0.zip) (6.9MB, blend 1개 · png 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/scrolls-0
+
+### Old Lady
+![Old Lady 미리보기](previews/old-lady.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//old-lady.zip) (20.0MB, png 3개 · blend 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/old-lady
+
+### Monk
+![Monk 미리보기](previews/monk.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//monk.zip) (6.1MB, png 1개 · blend 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/monk
+
+### Medieval Gatehouse
+![Medieval Gatehouse 미리보기](previews/medieval-gatehouse.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-gatehouse.zip) (5.5MB, jpg 12개 · blend 1개 · png 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-gatehouse
+
+### Animated Characters 1
+![Animated Characters 1 미리보기](previews/animated-characters-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//animated-characters-1.zip) (822KB, png 8개 · fbx 4개 · svg 4개 · txt 1개)
+- 제작: netgfx / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-characters-1
+
+### tree
+![tree 미리보기](previews/tree-5.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tree-5.zip) (4.7MB, png 3개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/tree-5
+
+### Modular Medieval House Pack 04
+![Modular Medieval House Pack 04 미리보기](previews/modular-medieval-house-pack-04.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-medieval-house-pack-04.zip) (118.8MB, blend 24개 · png 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-medieval-house-pack-04
+
+### Hatchet
+![Hatchet 미리보기](previews/hatchet.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//hatchet.zip) (7.9MB, png 6개 · obj 1개 · fbx 1개 · jpg 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/hatchet
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
