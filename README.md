@@ -581,6 +581,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//human-basemeshes.zip) (902KB, png 3개 · blend 1개)
 - 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/human-basemeshes
 
+### Evil Giant Rat
+![Evil Giant Rat 미리보기](previews/evil-giant-rat.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//evil-giant-rat.zip) (4.3MB, png 1개 · blend 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/evil-giant-rat
+
+### 3TD Africa Savanna Pack v1.0
+![3TD Africa Savanna Pack v1.0 미리보기](previews/3td-africa-savanna-pack-v10.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-africa-savanna-pack-v10.zip) (185.5MB, png 200개 · jpg 79개 · ogg 7개)
+- 제작: SmoodiLP / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-africa-savanna-pack-v10
+
+### Medieval Props Pack 2
+![Medieval Props Pack 2 미리보기](previews/medieval-props-pack-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-props-pack-2.zip) (1.6MB, jpg 2개 · png 1개 · txt 1개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-props-pack-2
+
+### Low-spec Air/Space Fighter
+![Low-spec Air/Space Fighter 미리보기](previews/low-spec-airspace-fighter.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-spec-airspace-fighter.zip) (161KB, blend 1개 · png 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/low-spec-airspace-fighter
+
+### 3D Horror Game Monster
+![3D Horror Game Monster 미리보기](previews/3d-horror-game-monster.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-horror-game-monster.zip) (233.1MB, png 12개 · fbx 6개 · txt 2개 · jpg 1개)
+- 제작: City Building G... / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-horror-game-monster
+
+### Hesco box
+![Hesco box 미리보기](previews/hesco-box.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//hesco-box.zip) (29.6MB, fbx 5개 · obj 5개 · jpg 2개 · txt 1개)
+- 제작: verbalshadow / 라이선스: CC0 / 원본: https://opengameart.org/content/hesco-box
+
+### Mossy Stone Rock
+![Mossy Stone Rock 미리보기](previews/mossy-stone-rock.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mossy-stone-rock.zip) (11.9MB, png 6개 · jpg 1개 · obj 1개)
+- 제작: bytheleft / 라이선스: CC0 / 원본: https://opengameart.org/content/mossy-stone-rock
+
+### Medieval Statue
+![Medieval Statue 미리보기](previews/medieval-statue.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-statue.zip) (1.1MB, jpg 3개 · blend 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-statue
+
+### Potions
+![Potions 미리보기](previews/potions-6.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//potions-6.zip) (1.8MB, png 2개 · blend 1개)
+- 제작: inmysights / 라이선스: CC0 / 원본: https://opengameart.org/content/potions-6
+
+### Cardboards Pack
+![Cardboards Pack 미리보기](previews/cardboards-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//cardboards-pack.zip) (4.2MB, obj 3개 · fbx 3개 · jpg 2개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cardboards-pack
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
