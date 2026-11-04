@@ -96,6 +96,51 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//bushes.zip) (18.4MB, jpg 7개 · fbx 5개 · obj 5개 · txt 1개)
 - 제작: TylerJessilynn / 라이선스: CC0 / 원본: https://opengameart.org/content/bushes
 
+### Modular Village
+![Modular Village 미리보기](previews/modular-village.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-village.zip) (8.9MB, obj 142개 · png 9개)
+- 제작: Croomfolk / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-village
+
+### Suburb Asset pt1
+![Suburb Asset pt1 미리보기](previews/suburb-asset-pt1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//suburb-asset-pt1.zip) (969KB, obj 14개 · jpg 2개 · txt 2개 · blend 1개)
+- 제작: asenqualia / 라이선스: CC0 / 원본: https://opengameart.org/content/suburb-asset-pt1
+
+### 3D Road Tile pack
+![3D Road Tile pack 미리보기](previews/3d-road-tile-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-road-tile-pack.zip) (3.9MB, obj 302개 · png 4개 · txt 2개)
+- 제작: xhidnoda / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-road-tile-pack
+
+### Mini Library
+![Mini Library 미리보기](previews/mini-library.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mini-library.zip) (8.5MB, png 1개 · blend 1개)
+- 제작: Teirdalin Shadowfall / 라이선스: CC0 / 원본: https://opengameart.org/content/mini-library
+
+### Vehicles Assets pt1
+![Vehicles Assets pt1 미리보기](previews/vehicles-assets-pt1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//vehicles-assets-pt1.zip) (3.8MB, obj 84개 · txt 2개 · jpg 1개 · blend 1개)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/vehicles-assets-pt1
+
+### Tropical shrubs
+![Tropical shrubs 미리보기](previews/tropical-shrubs.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//tropical-shrubs.zip) (6.2MB, jpg 7개 · obj 5개 · fbx 5개 · txt 1개)
+- 제작: Mev Lyshkin / 라이선스: CC0 / 원본: https://opengameart.org/content/tropical-shrubs
+
+### Skeleton with rig
+![Skeleton with rig 미리보기](previews/skeleton-with-rig.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//skeleton-with-rig.zip) (612KB, blend 1개 · jpg 1개)
+- 제작: rudy85 / 라이선스: CC0 / 원본: https://opengameart.org/content/skeleton-with-rig
+
+### Free LowPoly Golds
+![Free LowPoly Golds 미리보기](previews/free-lowpoly-golds.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-lowpoly-golds.zip) (3.3MB, obj 26개 · fbx 26개 · jpg 2개 · txt 1개)
+- 제작: yethiel / 라이선스: CC0 / 원본: https://opengameart.org/content/free-lowpoly-golds
+
+### Rocks 03
+![Rocks 03 미리보기](previews/rocks-03.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rocks-03.zip) (26.2MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/rocks-03
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
