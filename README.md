@@ -941,6 +941,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mage-tower.zip) (3.5MB, blend 1개 · png 1개)
 - 제작: vlzvl / 라이선스: CC0 / 원본: https://opengameart.org/content/mage-tower
 
+### Basic Wooden Fence
+![Basic Wooden Fence 미리보기](previews/basic-wooden-fence.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//basic-wooden-fence.zip) (1.0MB, blend 1개 · png 1개)
+- 제작: Taldor / 라이선스: CC0 / 원본: https://opengameart.org/content/basic-wooden-fence
+
+### Flintlock
+![Flintlock 미리보기](previews/flintlock.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//flintlock.zip) (6.5MB, blend 2개 · jpg 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/flintlock
+
+### Merchant tent v2
+![Merchant tent v2 미리보기](previews/merchant-tent-v2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//merchant-tent-v2.zip) (2.6MB, png 2개 · blend 1개)
+- 제작: CruzR / 라이선스: CC0 / 원본: https://opengameart.org/content/merchant-tent-v2
+
+### Low-poly Tree
+![Low-poly Tree 미리보기](previews/low-poly-tree-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-tree-1.zip) (6.2MB, png 4개 · obj 2개 · fbx 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-tree-1
+
+### LowPoly Spaceships Pack
+![LowPoly Spaceships Pack 미리보기](previews/lowpoly-spaceships-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//lowpoly-spaceships-pack.zip) (103.7MB, png 14개 · obj 11개 · fbx 11개 · blend 11개 · jpg 2개)
+- 제작: Baker / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-spaceships-pack
+
+### Goblin
+![Goblin 미리보기](previews/goblin-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//goblin-1.zip) (3.8MB, png 1개 · blend 1개)
+- 제작: Andrettin / 라이선스: CC0 / 원본: https://opengameart.org/content/goblin-1
+
+### QueChan
+![QueChan 미리보기](previews/quechan.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//quechan.zip) (2.9MB, png 6개 · blend 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/quechan
+
+### Skull prop
+![Skull prop 미리보기](previews/skull-prop.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//skull-prop.zip) (18.9MB, png 7개 · jpg 1개 · blend 1개)
+- 제작: Teirdalin Shadowfall / 라이선스: CC0 / 원본: https://opengameart.org/content/skull-prop
+
+### Short Sword
+![Short Sword 미리보기](previews/short-sword-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//short-sword-0.zip) (4.1MB, png 5개 · fbx 1개 · blend 1개)
+- 제작: Bogart VGM / 라이선스: CC0 / 원본: https://opengameart.org/content/short-sword-0
+
+### Free Pillars 02
+![Free Pillars 02 미리보기](previews/free-pillars-02.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-pillars-02.zip) (75.0MB, jpg 7개 · obj 5개 · fbx 5개 · txt 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/free-pillars-02
+
+### Mayflower
+![Mayflower 미리보기](previews/mayflower.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mayflower.zip) (2.1MB, png 2개 · obj 1개 · jpg 1개)
+- 제작: AnthonyMyers / 라이선스: CC0 / 원본: https://opengameart.org/content/mayflower
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
