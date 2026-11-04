@@ -791,6 +791,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//death-book.zip) (8.9MB, png 6개 · obj 1개)
 - 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/death-book
 
+### Archery Set
+![Archery Set 미리보기](previews/archery-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//archery-set.zip) (2.2MB, png 1개 · blend 1개)
+- 제작: Mophs / 라이선스: CC0 / 원본: https://opengameart.org/content/archery-set
+
+### Retro Medieval Kit
+![Retro Medieval Kit 미리보기](previews/retro-medieval-kit.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//retro-medieval-kit.zip) (2.4MB, png 139개 · obj 105개 · fbx 105개 · glb 105개 · txt 1개)
+- 제작: genderfreak / 라이선스: CC0 / 원본: https://opengameart.org/content/retro-medieval-kit
+
+### Plastic Barrel Pack
+![Plastic Barrel Pack 미리보기](previews/plastic-barrel-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//plastic-barrel-pack.zip) (3.6MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/plastic-barrel-pack
+
+### Heavy Greatsword
+![Heavy Greatsword 미리보기](previews/heavy-greatsword.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//heavy-greatsword.zip) (19.4MB, png 8개 · fbx 1개 · blend 1개)
+- 제작: Viktor Kraus / 라이선스: CC0 / 원본: https://opengameart.org/content/heavy-greatsword
+
+### Weapon Box pack 2
+![Weapon Box pack 2 미리보기](previews/weapon-box-pack-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//weapon-box-pack-2.zip) (5.4MB, jpg 2개 · fbx 1개 · txt 1개 · obj 1개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/weapon-box-pack-2
+
+### Two Pistols
+![Two Pistols 미리보기](previews/two-pistols.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//two-pistols.zip) (779KB, png 3개 · blend 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/two-pistols
+
+### Low-poly Wilderness
+![Low-poly Wilderness 미리보기](previews/low-poly-wilderness.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-wilderness.zip) (463KB, blend 1개 · jpg 1개)
+- 제작: smoke_th / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-wilderness
+
+### Low poly CC0: Western Objects Pack
+![Low poly CC0: Western Objects Pack 미리보기](previews/low-poly-cc0-western-objects-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-cc0-western-objects-pack.zip) (3.0MB, png 12개 · blend 1개 · fbx 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-cc0-western-objects-pack
+
+### Animated Longbow
+![Animated Longbow 미리보기](previews/animated-longbow.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//animated-longbow.zip) (3.8MB, jpg 1개 · blend 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-longbow
+
+### Dungeon - Low Poly Toon Battle Arena / Tower Defense Pack
+![Dungeon - Low Poly Toon Battle Arena / Tower Defense Pack 미리보기](previews/dungeon-low-poly-toon-battle-arena-tower-defense-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//dungeon-low-poly-toon-battle-arena-tower-defense-pack.zip) (2.6MB, fbx 42개 · png 5개 · jpg 1개 · blend 1개 · txt 1개)
+- 제작: mokalux / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-low-poly-toon-battle-arena-tower-defense-pack
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
