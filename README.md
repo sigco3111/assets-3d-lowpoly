@@ -526,6 +526,61 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//lava-golem.zip) (2.3MB, png 1개 · blend 1개)
 - 제작: Beast / 라이선스: CC0 / 원본: https://opengameart.org/content/lava-golem
 
+### Shipyard v0.4 customizable spaceships
+![Shipyard v0.4 customizable spaceships 미리보기](previews/shipyard-v04-customizable-spaceships.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//shipyard-v04-customizable-spaceships.zip) (2.4MB, blend 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/shipyard-v04-customizable-spaceships
+
+### fps arms (rigged only)
+![fps arms (rigged only) 미리보기](previews/fps-arms-rigged-only.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fps-arms-rigged-only.zip) (2.3MB, fbx 2개 · blend 2개 · png 1개 · jpg 1개)
+- 제작: Winterbolt Games / 라이선스: CC0 / 원본: https://opengameart.org/content/fps-arms-rigged-only
+
+### Medieval Church
+![Medieval Church 미리보기](previews/medieval-church.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-church.zip) (9.2MB, jpg 15개 · blend 1개)
+- 제작: Chris_M_The_Gam... / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-church
+
+### Concrete pipes
+![Concrete pipes 미리보기](previews/concrete-pipes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//concrete-pipes.zip) (6.0MB, obj 5개 · fbx 5개 · jpg 2개 · txt 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/concrete-pipes
+
+### Modular Castle Level Construction Kit
+![Modular Castle Level Construction Kit 미리보기](previews/modular-castle-level-construction-kit.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-castle-level-construction-kit.zip) (78.4MB, fbx 11개 · jpg 6개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-castle-level-construction-kit
+
+### Mudeater (animated)
+![Mudeater (animated) 미리보기](previews/mudeater-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mudeater-animated.zip) (9.7MB, png 1개 · blend 1개)
+- 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/mudeater-animated
+
+### Free Pillars models
+![Free Pillars models 미리보기](previews/free-pillars-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-pillars-models.zip) (53.1MB, jpg 7개 · fbx 5개 · obj 5개 · txt 1개)
+- 제작: Myckel / 라이선스: CC0 / 원본: https://opengameart.org/content/free-pillars-models
+
+### Medieval Tavern
+![Medieval Tavern 미리보기](previews/medieval-tavern.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-tavern.zip) (4.2MB, jpg 3개 · blend 1개)
+- 제작: karthik 2901 / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-tavern
+
+### Fuel/oil tank Pack
+![Fuel/oil tank Pack 미리보기](previews/fueloil-tank-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fueloil-tank-pack.zip) (6.1MB, jpg 2개 · obj 1개 · fbx 1개 · txt 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/fueloil-tank-pack
+
+### Medieval Smith Pack
+![Medieval Smith Pack 미리보기](previews/medieval-smith-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-smith-pack.zip) (3.3MB, jpg 2개 · blend 1개)
+- 제작: MikeeUSA / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-smith-pack
+
+### Human Basemeshes
+![Human Basemeshes 미리보기](previews/human-basemeshes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//human-basemeshes.zip) (902KB, png 3개 · blend 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/human-basemeshes
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
