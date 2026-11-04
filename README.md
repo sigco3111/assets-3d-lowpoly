@@ -741,6 +741,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//hatchet.zip) (7.9MB, png 6개 · obj 1개 · fbx 1개 · jpg 1개)
 - 제작: Tozan / 라이선스: CC0 / 원본: https://opengameart.org/content/hatchet
 
+### 3D Gum Bot
+![3D Gum Bot 미리보기](previews/3d-gum-bot.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-gum-bot.zip) (111.6MB, png 107개 · blend 1개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-gum-bot
+
+### Dungeon Assets
+![Dungeon Assets 미리보기](previews/dungeon-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//dungeon-assets.zip) (2.1MB, png 3개 · fbx 1개)
+- 제작: AerialA / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-assets
+
+### Free Modular Low Poly Dungeon Pack
+![Free Modular Low Poly Dungeon Pack 미리보기](previews/free-modular-low-poly-dungeon-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-modular-low-poly-dungeon-pack.zip) (15.6MB, png 4개 · fbx 2개 · txt 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/free-modular-low-poly-dungeon-pack
+
+### Medieval Castles & Tiles
+![Medieval Castles & Tiles 미리보기](previews/medieval-castles-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-castles-tiles.zip) (15.8MB, png 9개 · obj 4개 · blend 1개)
+- 제작: eracoon / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-castles-tiles
+
+### Demon statue
+![Demon statue 미리보기](previews/demon-statue.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//demon-statue.zip) (1.5MB, blend 1개 · png 1개)
+- 제작: shd / 라이선스: CC0 / 원본: https://opengameart.org/content/demon-statue
+
+### SENTRY-2 (Sentry Bot Mark 2)
+![SENTRY-2 (Sentry Bot Mark 2) 미리보기](previews/sentry-2-sentry-bot-mark-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//sentry-2-sentry-bot-mark-2.zip) (18.3MB, jpg 1개 · blend 1개 · txt 1개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/sentry-2-sentry-bot-mark-2
+
+### Wolf
+![Wolf 미리보기](previews/wolf-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//wolf-1.zip) (301KB, blend 1개 · png 1개)
+- 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/wolf-1
+
+### Undead Squirrel (ANIMATED)
+![Undead Squirrel (ANIMATED) 미리보기](previews/undead-squirrel-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//undead-squirrel-animated.zip) (4.4MB, png 7개 · txt 1개 · blend 1개)
+- 제작: Alopex / 라이선스: CC0 / 원본: https://opengameart.org/content/undead-squirrel-animated
+
+### Modular Medieval House Pack 01
+![Modular Medieval House Pack 01 미리보기](previews/modular-medieval-house-pack-01.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-medieval-house-pack-01.zip) (96.1MB, blend 16개 · png 5개)
+- 제작: reidh / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-medieval-house-pack-01
+
+### Death Book
+![Death Book 미리보기](previews/death-book.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//death-book.zip) (8.9MB, png 6개 · obj 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/death-book
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
