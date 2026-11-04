@@ -841,6 +841,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//dungeon-low-poly-toon-battle-arena-tower-defense-pack.zip) (2.6MB, fbx 42개 · png 5개 · jpg 1개 · blend 1개 · txt 1개)
 - 제작: mokalux / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-low-poly-toon-battle-arena-tower-defense-pack
 
+### Mali buildings
+![Mali buildings 미리보기](previews/mali-buildings.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//mali-buildings.zip) (8.8MB, blend 20개 · png 5개)
+- 제작: Puffolotti / 라이선스: CC0 / 원본: https://opengameart.org/content/mali-buildings
+
+### 19 Low-Poly Fantasy Weapons
+![19 Low-Poly Fantasy Weapons 미리보기](previews/19-low-poly-fantasy-weapons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//19-low-poly-fantasy-weapons.zip) (248KB, blend 1개 · png 1개)
+- 제작: Tabasco / 라이선스: CC0 / 원본: https://opengameart.org/content/19-low-poly-fantasy-weapons
+
+### Medieval Well
+![Medieval Well 미리보기](previews/medieval-well.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-well.zip) (3.0MB, jpg 4개 · png 2개 · txt 1개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-well
+
+### 3D Spaceships pack
+![3D Spaceships pack 미리보기](previews/3d-spaceships-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-spaceships-pack.zip) (2.4MB, fbx 9개 · blend 9개 · obj 9개 · png 2개)
+- 제작: haxx / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-spaceships-pack
+
+### Katana
+![Katana 미리보기](previews/katana-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//katana-2.zip) (3.3MB, jpg 3개 · obj 1개 · fbx 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/katana-2
+
+### Realtime Rancher's 3D Model Pack
+![Realtime Rancher's 3D Model Pack 미리보기](previews/realtime-ranchers-3d-model-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//realtime-ranchers-3d-model-pack.zip) (68.9MB, png 14개 · blend 2개 · obj 2개)
+- 제작: Iconoclast / 라이선스: CC0 / 원본: https://opengameart.org/content/realtime-ranchers-3d-model-pack
+
+### Low Poly House Interior
+![Low Poly House Interior 미리보기](previews/low-poly-house-interior.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//low-poly-house-interior.zip) (2.6MB, obj 49개 · fbx 49개 · gltf 49개 · png 4개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/low-poly-house-interior
+
+### High-poly AK-47
+![High-poly AK-47 미리보기](previews/high-poly-ak-47.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//high-poly-ak-47.zip) (698KB, png 2개 · blend 1개 · obj 1개)
+- 제작: HaelDB / 라이선스: CC0 / 원본: https://opengameart.org/content/high-poly-ak-47
+
+### Wood Pallet v1 Pack
+![Wood Pallet v1 Pack 미리보기](previews/wood-pallet-v1-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//wood-pallet-v1-pack.zip) (3.1MB, jpg 2개 · fbx 1개 · obj 1개 · txt 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/wood-pallet-v1-pack
+
+### Book
+![Book 미리보기](previews/book.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//book.zip) (324KB, png 2개 · blend 1개)
+- 제작: Unavailable / 라이선스: CC0 / 원본: https://opengameart.org/content/book
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
