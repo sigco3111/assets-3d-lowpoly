@@ -196,6 +196,36 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-medieval-building-pack.zip) (27.2MB, jpg 62개 · blend 10개)
 - 제작: dennydenning / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-medieval-building-pack
 
+### Landscape Asset v1
+![Landscape Asset v1 미리보기](previews/landscape-asset-v1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//landscape-asset-v1.zip) (1.8MB, obj 29개 · jpg 8개 · blend 3개 · txt 2개 · png 1개)
+- 제작: Buch / 라이선스: CC0 / 원본: https://opengameart.org/content/landscape-asset-v1
+
+### Modular Temple - 3D Models
+![Modular Temple - 3D Models 미리보기](previews/modular-temple-3d-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-temple-3d-models.zip) (3.1MB, obj 282개 · png 8개)
+- 제작: JWS / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-temple-3d-models
+
+### Old Deer Male
+![Old Deer Male 미리보기](previews/old-deer-male.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//old-deer-male.zip) (5.1MB, png 1개 · blend 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/old-deer-male
+
+### Modular Dungeon - 3D Models
+![Modular Dungeon - 3D Models 미리보기](previews/modular-dungeon-3d-models.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//modular-dungeon-3d-models.zip) (222KB, obj 56개 · jpg 5개)
+- 제작: 불명 (OGA 계정 삭제됨) / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-dungeon-3d-models
+
+### Rigged Horse
+![Rigged Horse 미리보기](previews/rigged-horse.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rigged-horse.zip) (19.1MB, blend 1개 · jpg 1개)
+- 제작: Iconoclast / 라이선스: CC0 / 원본: https://opengameart.org/content/rigged-horse
+
+### Wood Barrels Pack
+![Wood Barrels Pack 미리보기](previews/wood-barrels-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//wood-barrels-pack.zip) (11.5MB, jpg 2개 · fbx 2개 · obj 2개 · txt 1개)
+- 제작: mattn / 라이선스: CC0 / 원본: https://opengameart.org/content/wood-barrels-pack
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
