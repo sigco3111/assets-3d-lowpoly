@@ -226,6 +226,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//wood-barrels-pack.zip) (11.5MB, jpg 2개 · fbx 2개 · obj 2개 · txt 1개)
 - 제작: mattn / 라이선스: CC0 / 원본: https://opengameart.org/content/wood-barrels-pack
 
+### Freebies - Mundo commissions
+![Freebies - Mundo commissions 미리보기](previews/freebies-mundo-commissions.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//freebies-mundo-commissions.zip) (40.0MB, jpg 9개 · obj 5개 · fbx 5개)
+- 제작: Fracture / 라이선스: CC0 / 원본: https://opengameart.org/content/freebies-mundo-commissions
+
+### Deer Female
+![Deer Female 미리보기](previews/deer-female.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//deer-female.zip) (7.4MB, fbx 4개 · png 3개 · txt 1개 · blend 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/deer-female
+
+### Racing Assets v1
+![Racing Assets v1 미리보기](previews/racing-assets-v1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//racing-assets-v1.zip) (4.2MB, obj 80개 · jpg 4개 · txt 2개 · blend 1개)
+- 제작: AnthonyMyers / 라이선스: CC0 / 원본: https://opengameart.org/content/racing-assets-v1
+
+### Multi stylized grass
+![Multi stylized grass 미리보기](previews/multi-stylized-grass.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//multi-stylized-grass.zip) (2.0MB, obj 40개 · fbx 40개 · jpg 2개 · txt 1개)
+- 제작: Danimal / 라이선스: CC0 / 원본: https://opengameart.org/content/multi-stylized-grass
+
+### 3TD Cave Pack Pro v1.0
+![3TD Cave Pack Pro v1.0 미리보기](previews/3td-cave-pack-pro-v10.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-cave-pack-pro-v10.zip) (205.7MB, png 126개 · jpg 44개 · ogg 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-cave-pack-pro-v10
+
+### [Free] HandPainted Plants 2
+![[Free] HandPainted Plants 2 미리보기](previews/free-handpainted-plants-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-handpainted-plants-2.zip) (4.8MB, obj 67개 · fbx 67개 · txt 1개 · jpg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-handpainted-plants-2
+
+### Covered well
+![Covered well 미리보기](previews/covered-well.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//covered-well.zip) (3.9MB, blend 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/covered-well
+
+### Medieval Containers
+![Medieval Containers 미리보기](previews/medieval-containers.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-containers.zip) (2.5MB, jpg 2개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-containers
+
+### 3d walls props
+![3d walls props 미리보기](previews/3d-walls-props.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3d-walls-props.zip) (4.5MB, jpg 28개 · fbx 1개)
+- 제작: CrisisSDK / 라이선스: CC0 / 원본: https://opengameart.org/content/3d-walls-props
+
+### Knight statue
+![Knight statue 미리보기](previews/knight-statue.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//knight-statue.zip) (3.0MB, blend 2개 · png 2개)
+- 제작: Charlie / 라이선스: CC0 / 원본: https://opengameart.org/content/knight-statue
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
