@@ -371,6 +371,56 @@ zip은 릴리스에 첨부되어 있습니다 (웹 업로드 방식의 한계로
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rpg-item-collection-2.zip) (6.2MB, png 17개 · obj 8개 · jpg 3개 · blend 1개)
 - 제작: RmateHadi / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-item-collection-2
 
+### Cannabis plants
+![Cannabis plants 미리보기](previews/cannabis-plants.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//cannabis-plants.zip) (5.1MB, jpg 2개 · fbx 2개 · obj 2개 · txt 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/cannabis-plants
+
+### RPG Item collection 3
+![RPG Item collection 3 미리보기](previews/rpg-item-collection-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//rpg-item-collection-3.zip) (24.8MB, png 18개 · obj 7개 · jpg 3개 · blend 1개)
+- 제작: Starry Skydancer / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-item-collection-3
+
+### Concrete barriers
+![Concrete barriers 미리보기](previews/concrete-barriers.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//concrete-barriers.zip) (79.0MB, jpg 7개 · fbx 5개 · obj 5개 · txt 1개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/concrete-barriers
+
+### Free houseplants
+![Free houseplants 미리보기](previews/free-houseplants.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//free-houseplants.zip) (13.0MB, obj 25개 · fbx 25개 · jpg 2개 · txt 1개)
+- 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/free-houseplants
+
+### LowPoly Animated Farm Animal Pack
+![LowPoly Animated Farm Animal Pack 미리보기](previews/lowpoly-animated-farm-animal-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//lowpoly-animated-farm-animal-pack.zip) (11.8MB, obj 7개 · fbx 7개 · blend 7개 · txt 1개)
+- 제작: tylerhollow / 라이선스: CC0 / 원본: https://opengameart.org/content/lowpoly-animated-farm-animal-pack
+
+### 3TD Harbour Pack
+![3TD Harbour Pack 미리보기](previews/3td-harbour-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//3td-harbour-pack.zip) (20.4MB, png 25개 · jpg 17개)
+- 제작: bobjh / 라이선스: CC0 / 원본: https://opengameart.org/content/3td-harbour-pack
+
+### Grapple Girl
+![Grapple Girl 미리보기](previews/grapple-girl.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//grapple-girl.zip) (4.7MB, jpg 1개 · blend 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/grapple-girl
+
+### Sci-fi environment pack
+![Sci-fi environment pack 미리보기](previews/sci-fi-environment-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//sci-fi-environment-pack.zip) (185.6MB, png 14개 · jpg 2개 · fbx 2개 · blend 1개)
+- 제작: Aspecty / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-environment-pack
+
+### Medieval Blacksmith
+![Medieval Blacksmith 미리보기](previews/medieval-blacksmith.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//medieval-blacksmith.zip) (10.9MB, jpg 4개 · blend 1개)
+- 제작: AnyRPG / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-blacksmith
+
+### Fish (Animated)
+![Fish (Animated) 미리보기](previews/fish-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download//fish-animated.zip) (3.0MB, png 2개 · txt 1개 · blend 1개)
+- 제작: XaosXV / 라이선스: CC0 / 원본: https://opengameart.org/content/fish-animated
+
 ## 사용 방법
 
 1. 릴리스에서 원하는 zip을 내려받아 프로젝트에 압축 해제
