@@ -1,0 +1,9 @@
+This file was written by the catalog collector (not an original license file).
+Pack: Cube World Kit (Aug 2023)
+Author: Quaternius
+Source page: https://quaternius.com/packs/cubeworldkit.html
+License stated on the source page: CC0 1.0 Universal (Public Domain Dedication)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Basis: quaternius.com pack page lists License: CC0 (link to creativecommons.org/publicdomain/zero/1.0/); Google Drive distribution folder from the official page
+Checked: 2026-11-07
+No attribution is required; crediting the author is appreciated.
