@@ -1,0 +1,10 @@
+Sushi Restaurant Kit by Quaternius
+Source: https://quaternius.com/packs/sushirestaurantkit.html
+
+License statement shown on the pack page (checked 2026-11-07): "License CC0"; page text:
+"free to use in personal and commercial projects."
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The original download (Google Drive folder) does not contain a License.txt.
+This file was written by the collector (sigco3111) from the pack page's CC0 statement; it is not an original author file.
