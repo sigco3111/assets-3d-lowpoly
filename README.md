@@ -1,3 +1,5 @@
+> **Quaternius 안내 (2026-11-07 A7~)**: 새 Quaternius CC0 팩은 이제 [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius)에 올립니다. A6까지 이 저장소에 올라온 Quaternius 팩은 그대로 두며 이동·삭제하지 않습니다.
+
 # assets-3d-lowpoly
 
 3D 로우폴리 모델. glTF(GLB)·OBJ 등 게임엔진/웹에서 바로 쓸 수 있는 형식의 CC0·CC-BY 팩. CC-BY 팩은 사용 시 저작자 표기 필요 (각 팩 LICENSE-SOURCE.txt에 원본 저작자·정확한 CC 버전·출처·변경 내역 기록).
