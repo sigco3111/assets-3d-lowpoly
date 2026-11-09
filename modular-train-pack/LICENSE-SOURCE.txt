@@ -1,0 +1,25 @@
+This file was written by the catalog collector (sigco3111); the original author file is License.txt inside modular-train-pack.zip (copied below).
+
+Pack: Modular Train Pack - April 2019 (modular-train-pack.zip)
+Author: Quaternius
+Source page: https://quaternius.com/packs/modulartrain.html
+Checked: 2026-11-10
+
+License shown on the pack page: "License: CC0" (link: https://creativecommons.org/publicdomain/zero/1.0/)
+Selected license: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+Additional licenses offered: none
+Credit: not required
+Note: quaternius.com/license.html (checked 2026-11-10) shows the "Quaternius Asset License (QAL) v1.0", last updated 8/28/2026, which states it governs future Asset releases and is not retroactive. This pack's page still states CC0.
+
+----- Train Pack - April 2019/License.txt (verbatim, from modular-train-pack.zip) -----
+------------------------------------------------------
+LowPoly Models by @Quaternius
+Consider supporting me on Patreon, even $1 helps me a lot!
+
+https://www.patreon.com/quaternius
+-------------------------------------------------------
+
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
