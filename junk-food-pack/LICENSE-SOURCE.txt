@@ -1,0 +1,12 @@
+This file was written by the catalog collector (sigco3111); the original zip contains no license file.
+
+Pack: Junk Food Pack - Apr 2017 (junk-food-pack.zip)
+Author: Quaternius
+Source page: https://quaternius.com/packs/junkfood.html
+Checked: 2026-11-09
+
+License shown on the pack page: "License: CC0" (link: https://creativecommons.org/publicdomain/zero/1.0/)
+Selected license: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+Additional licenses offered: none
+Credit: not required
+Note: quaternius.com/license.html (checked 2026-11-09) shows the "Quaternius Asset License (QAL) v1.0", last updated 8/28/2026, which states it governs future Asset releases and is not retroactive. This pack's page still states CC0.
