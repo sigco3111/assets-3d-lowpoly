@@ -1,0 +1,51 @@
+This file was written by the catalog collector (sigco3111); the original author file is fish-kit/LICENSE.txt inside fish-kit.zip (copied below).
+
+Pack: Fish Model Gallery (fish-kit.zip)
+Author: なちゃっと (X: @nachat_dayo)
+Source page: https://cda-social.github.io/fish/gallery.html
+Announcement: https://x.com/nachat_dayo/status/2119312018633273714 (2026-11-08)
+Checked: 2026-11-09
+
+License statement shown on the gallery page (copied verbatim):
+"CC0 1.0 (public domain)
+Models, textures and motion code are all free to modify, redistribute and use commercially. No permission or credit needed (but a mention is always appreciated)."
+
+Selected license: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+Additional licenses offered: none
+Note: the maker's kit documentation (making/README.md) states that the reference images were generated with Codex (OpenAI) image generation under Claude Code direction and the 3D meshes were built in Blender (AI-generated, stated by the creator).
+
+----- fish-kit/LICENSE.txt (verbatim, from fish-kit.zip) -----
+Fish Kit — CC0 1.0 Universal
+
+The models, photos, code and scripts in this kit are dedicated to the public domain.
+You may copy, modify, redistribute and use them, including for commercial purposes,
+without permission and without credit.
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+このキットのモデル・写真・プログラム・スクリプトは CC0 1.0（パブリックドメイン）です。
+改変・再配布・商用利用を含め、許可もクレジット表記もなく自由に使えます。
+
+----
+three.js (embedded in example.html only)
+
+The MIT License
+
+Copyright © 2010-2026 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
