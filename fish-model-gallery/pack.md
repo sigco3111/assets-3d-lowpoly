@@ -11,7 +11,7 @@
 - zip SHA-256: c60c0ac158fd31f4654e95348d93330de7d8958d76516adc28e036402735f6b6
 - 태그: fish,animal,animated,glb,game
 - 대상 저장소: assets-3d-lowpoly
-- 내용: 낚시 게임용 물고기 3D 모델 22종(상세 약 5,000 삼각형 glb + 경량 약 700 삼각형 _lo.glb), 입·눈·지느러미·아가미가 움직이는 모션 코드(fish-kit.js, three.js r187), example.html, 새 어종을 AI 에이전트로 만드는 방법 문서(making/README.md와 스크립트)
+- 내용: 낚시 게임용 물고기 3D 모델 20종(상세 약 5,000 삼각형 glb + 경량 약 700 삼각형 _lo.glb), 입·눈·지느러미·아가미가 움직이는 모션 코드(fish-kit.js, three.js r187), example.html, 새 어종을 AI 에이전트로 만드는 방법 문서(making/README.md와 스크립트)
 - 표기 요구: 없음 (페이지: "No permission or credit needed (but a mention is always appreciated)")
 - AI 생성: 제작자 문서에 명시 (Claude Code 지시 + Codex 이미지 생성으로 참조 이미지 제작, Blender로 3D 메시 제작). 제작자 명시 조건: CC0 1.0 (zip 안 LICENSE.txt도 CC0 1.0, example.html에만 three.js MIT 고지).
 - 라이선스 파일: zip 안 fish-kit/LICENSE.txt(CC0 1.0 + three.js MIT 고지)가 원본 라이선스 파일; 수집자가 페이지 표기와 함께 LICENSE-SOURCE.txt를 추가로 작성
