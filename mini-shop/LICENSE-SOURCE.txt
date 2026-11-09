@@ -1,0 +1,41 @@
+This file was written by the catalog collector (sigco3111); the original author file is License.txt inside kenney_mini-shop_2.1.zip (copied below).
+
+Pack: Mini Shop (kenney_mini-shop_2.1.zip)
+Author: Kenney (www.kenney.nl)
+Source page: https://kenney.nl/assets/mini-shop
+Checked: 2026-11-09
+
+License statement shown on the pack page: "License: Creative Commons CC0" (https://creativecommons.org/publicdomain/zero/1.0/)
+Selected license: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+Additional licenses offered: none
+Credit: not required
+
+----- License.txt (verbatim, from kenney_mini-shop_2.1.zip) -----
+	
+
+	Mini Shop (2.1)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 03-11-2026 11:05
+	
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You can use this content for personal, educational, and commercial purposes.
+
+	Support by crediting 'Kenney' or 'www.kenney.nl' (this is not a requirement)
+
+			------------------------------
+
+	• Website : www.kenney.nl
+	• Donate  : www.kenney.nl/donate
+
+	• Patreon : patreon.com/kenney
+	
+	Follow on social media for updates:
+
+	• Twitter:	 twitter.com/KenneyNL
+	• BlueSky:	 kenney.bsky.social
+	• Instagram: instagram.com/kenney_nl
