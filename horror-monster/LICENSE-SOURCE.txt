@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/horror-monster-0
+Title: Horror Monster
+Author: EmoPreben (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-09-19
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: horror_monster_fbx.zip (18.9 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: f3aab9794dd43636db32b06eeee83b0c9b79c51f8e192e95242fdba10fa3e7ad
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
