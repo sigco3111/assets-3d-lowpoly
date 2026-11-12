@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/crate-3
+Title: Crate 3
+Author: plaggy (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2015-09-09
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page files: Crate 3.zip (478.8 Kb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 08a92f4f3f9b6895b69c603eb71381473db32db6e12b31085e19d0a20da36ed7
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
