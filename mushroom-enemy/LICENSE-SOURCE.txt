@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/mushroom-enemy
+Title: Mushroom Enemy
+Author: Q2DENJINDREW (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-11-03
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: fungus.zip (43.9 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: c136e89a7f613f2c287a24e9c6548725873b2ca1c2b24dbb7601292c8aa35ea6
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
