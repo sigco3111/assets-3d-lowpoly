@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/heavy-tankextra-low-poly-rts
+Title: Heavy Tank[extra low poly, RTS]
+Author: 32kda (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-06-14
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: Public domain. Do whatever you want, optional credit - 32kda
+Page files: heavy_tank00.zip (167.7 Kb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 55e2c3a16cba032da88eefa79ba30ec834c6a38df3b186620d80199f9ecf5fea
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
