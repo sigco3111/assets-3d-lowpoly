@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/bone-golem
+Title: Bone Golem
+Author: Mophs (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 and GPL 3.0 (both allowed); CC-BY 3.0 chosen
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2017-02-08
+Collected: 2026-11-12
+
+Chosen license: CC-BY 3.0. Attribution is required (see CREDITS.txt). Page Copyright/Attribution Notice: (none on the page).
+Page files: Bone_Golem_OBJ.zip (503.6 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 85feb2ed5b2e04b48f357dde0b8171ab964a5f209c00871a87a3e6b0f699306f
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
