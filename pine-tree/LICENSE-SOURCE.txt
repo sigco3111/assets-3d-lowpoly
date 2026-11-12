@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/pine-tree
+Title: Pine Tree
+Author: trent_taray (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-11-08
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: pinetree.blend (936.1 Kb), pinetree0.png (64.9 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 8b5762c7c9f14d755962e4e23cd6cc07e4efee62f31d52d215837c0c1eaa8263
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
