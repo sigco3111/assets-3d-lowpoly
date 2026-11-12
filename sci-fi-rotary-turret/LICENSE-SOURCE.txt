@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/sci-fi-rotary-turret
+Title: Sci-Fi Rotary Turret
+Author: David W CG (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2026-04-10
+Collected: 2026-11-12
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: turret.zip (5.4 Mb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: db55642d79263152aa7cb6748cdffa14e7e5e9c60000d1122aac94aa0c112794
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
