@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/wolf-mutant-3d
+Title: Wolf Mutant 3D
+Author: Prjsj8guge (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-05-27
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: none (the page has no separate attribution notice)
+Page files: wolf_mutant_model_with_animations.zip (542.4 Kb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: a8c6b5afe1c3f90a24e501459c5c3e14a619c2c5e3311e8b3df3fc36f08155ae
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
