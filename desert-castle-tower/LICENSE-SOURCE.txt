@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/desert-castletower
+Title: desert castle/tower
+Author: unForastero (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-09-22
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: "credits, Guiliard TB."
+Page files: fbx-file-01.zip (399.4 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 5b61de6221357e75656772f91d078dfea9d9bc3a3cad19673ce8f1dbe2f34355
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
