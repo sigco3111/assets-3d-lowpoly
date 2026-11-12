@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/sci-fi-shipping-crate
+Title: Sci-Fi Shipping Crate
+Author: David W CG (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2026-03-25
+Collected: 2026-11-12
+
+Chosen license: CC-BY 4.0. Attribution to the author is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: shipping_crate.zip (2.1 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 4dbfc716509ed89cc82c399315ee2f29b7639783c410d8f0a90fefd920715c21
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
