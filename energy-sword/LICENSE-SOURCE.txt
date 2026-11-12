@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/energy-sword
+Title: Energy Sword
+Author: ova Xen (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-05-20
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: There is no need to cite the source. However, if you mention the author and model information in your project, the author will be very pleased.
+Page files: energy_sword.zip (6.2 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: b31de1c0c3fe5ef4a0b563685baca1872ea0c1064da737a427d1556373dc65f7
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
