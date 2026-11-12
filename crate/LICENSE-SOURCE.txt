@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/crate-5
+Title: Crate
+Author: Kutejnikov (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 (single)
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2023-02-15
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. Page Copyright/Attribution Notice: (none on the page); the bundled ReadMe.txt says "License: CC0".
+Page files: crate.7z (2.5 Mb); the 7z archive was extracted and its files (unmodified) were re-packed into crate.zip because the library stores zip packs.
+Pack zip SHA-256: 04fb19e9bedfd7e189da39760b8672ca3eda68406f53330ab45e09a9f84a8325
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
