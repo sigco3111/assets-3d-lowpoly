@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/ultimate-3d-car-assets-pack-w-interiors-and-animations
+Title: Ultimate 3D Car Assets Pack (w Interiors and Animations)
+Author: Lyricsz (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-07-22
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: not mandatory! https://lyricsz-assets.itch.io
+Page files: cars20withanimation.zip (1.7 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 18decb77fc1c5870744651dde6ba23f016a7e07eca57c1abd2f17fc001091691
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
