@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/destroyed-walls-3d-models
+Title: Destroyed Walls - 3D models
+Author: LFA (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 (single)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2010-06-06
+Collected: 2026-11-12
+
+Chosen license: CC-BY 3.0. Attribution is required (see CREDITS.txt). Page Copyright/Attribution Notice: (none on the page).
+Page files: destroyedwalls_by_lfa.zip (3.4 Mb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 3fb4a5b635fe2ed0d84bf76cf720d5f380eae8666574e80481e42eed334604e6
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
