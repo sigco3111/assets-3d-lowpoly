@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/medieval-dungeon-%E2%80%93-modular-base-kit-free
+Title: Medieval Dungeon – Modular Base Kit (Free)
+Author: Nodex3D (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2026-07-31
+Collected: 2026-11-12
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: Medieval Dungeon – Modular Base Kit by Nodex3D (nodex3d.itch.io)
+Page files: dungeon_kit_v1.zip (33.1 Mb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 73f2ee1a773a222d76084ad8949f7ded3faf3530962b4358dd4f298a71b2a491
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
