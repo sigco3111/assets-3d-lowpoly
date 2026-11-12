@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/chibi-neko-by-cosmix
+Title: Chibi Neko by cosmix
+Author: zodiepupper (OpenGameArt.org submitter; model by cosmix, https://cosmix.pics) (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-10-29
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page files: chibineko.zip (111.3 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 84daa6a60c224a87b61d6bed0b3a3ce26901e1aa5bdd8975816cf5962cdd5af3
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
