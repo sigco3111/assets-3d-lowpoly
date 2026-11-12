@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/locomotive-1
+Title: Locomotive
+Author: 32kda (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-03-20
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: CC0, do whatever you want. Optional attribution: 32kda
+Page files: locomotive00.zip (3.5 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 209ace07f52efa8e113c796f3e307dc86262bb24a1b5be6fb78edf311f461445
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
