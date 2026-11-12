@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/basic-female-0
+Title: Basic Female
+Author: EmoPreben (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-10-09
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: If you feel for it, I can be credited "EmoPreben"
+Page files: female_basic_rigged.zip (24.8 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 0e506cc3066bdee918f09d50a92bd9672f0fe598950cd48cd75e2bbc89b27a42
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
