@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/gdquest-3d-characters-repository
+Title: GDQuest 3D Characters Repository
+Author: hardboileduser (OGA 게시자; 협업 GDquest, 캐릭터 제작 Thibaud Goiffon) (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2026-02-27
+Collected: 2026-11-12
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: [Asset's Name] (image textures and 3D models) by GDQuest licensed CC-BY 4.0: https://github.com/gdquest-demos/godot-4-3D-Characters
+Page files: sophia_glb.zip, gdbot_glb.zip, gobot_glb.zip, beetle_bot_fused_glb.zip, bee_bot_glb.zip, bat_glb.zip (개별 모델), godot-3d-characters-repository.zip (8.7 Mb, 6개 모델 전부); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 06060ae04f6fde4bac77e00dd141a5b6b5962848c03c799b6c6bc5a0880291f3
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
