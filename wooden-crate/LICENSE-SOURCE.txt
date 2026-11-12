@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/wooden-crate-0
+Title: Wooden crate
+Author: EmoPreben (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 단독
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-11-07
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. 
+Page Copyright/Attribution Notice: (none on the page)
+Page files: crate_wooden_fbx.zip (25.1 Mb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 7a41abbff7e9610ae0c5c56da8f3cb3a4d128d4d3239d29e3d221668ce6b1b0e
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
