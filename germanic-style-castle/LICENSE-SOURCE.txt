@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/germanic-style-castle
+Title: Germanic style castle
+Author: _Creature_ (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-09-25
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page files: germanic_castle.zip (307.9 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: c9e7f378badda7317be159e0dfd9563902d043ee1b09ee77621cd13e86e073c0
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
