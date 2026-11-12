@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/psx-style-cars
+Title: PSX Style Cars
+Author: GGBotNet (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-05-21
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: "GGBotNet"
+Page files: psx_style_cars_by_ggbot_august2023.zip (2.6 Mb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: db67b0b0fbaa02454a5d000dc9ec1cc53f360e8f41ab44f3fb1c7e8f71e699e4
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
