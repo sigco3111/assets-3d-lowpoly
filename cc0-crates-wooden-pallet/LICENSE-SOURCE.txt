@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/cc0-crates-wooden-pallet
+Title: Cc0 crates + wooden pallet
+Author: Lucian Pavel (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2016-08-16
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: Public Domain
+Page files: Crates.zip (16.1 Mb); the collector kept the file unmodified (byte-identical, renamed only).
+Pack zip SHA-256: 99b98ca36331a3b125c8686b80c1b12f251ba51d2ca6b69944bd98a6e0f1e3a3
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
