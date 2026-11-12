@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/undead-male
+Title: Undead male
+Author: TiZiana (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 단독
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2009-08-31
+Collected: 2026-11-12
+
+Chosen license: CC-BY 3.0. Attribution to the author is required (see CREDITS.txt). (The zip's testo.txt mentions CC-BY 2.0; the OGA page states CC-BY 3.0, which is what is recorded here. Both require attribution.)
+Page Copyright/Attribution Notice: (none on the page)
+Page files: undead.zip (935.9 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 99f6f7c3bb7962728ad06ef98f6e7759958e473137e9262f4c1304e5bd0a3c13
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
