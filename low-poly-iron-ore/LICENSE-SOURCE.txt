@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/low-poly-iron-ore
+Title: low poly iron ore
+Author: musher3004 (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-09-23
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: stone.zip (298.9 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 38da365d7d662f6b931239c88fc7e0de308a7460d81977175ab7b0a8fbc448ad
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
