@@ -1,0 +1,93 @@
+name: ingest-pack
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: slug
+        required: true
+      title:
+        description: pack title
+        required: true
+      url:
+        description: direct file url
+        required: true
+      license:
+        description: license
+        required: true
+      author:
+        description: author
+        required: true
+      published:
+        description: published date
+        required: true
+      tags:
+        description: tags
+        required: true
+      source:
+        description: source page url
+        required: true
+      credit:
+        description: credit needed (yes/no)
+        required: true
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick unzip >/dev/null
+      - name: fetch
+        env:
+          URL: ${{ inputs.url }}
+          SLUG: ${{ inputs.slug }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$SLUG"
+          curl -fsSL --retry 3 -o "$SLUG/$SLUG.zip" "$URL"
+          ls -l "$SLUG"
+      - name: preview
+        env:
+          SLUG: ${{ inputs.slug }}
+          TITLE: ${{ inputs.title }}
+        run: |
+          set -euo pipefail
+          cd "$SLUG"
+          rm -rf _x && mkdir _x
+          unzip -qo "$SLUG.zip" -d _x || true
+          N=$(find _x -type f | wc -l)
+          echo "FILES=$N" >> "$GITHUB_ENV"
+          PREV=$(find _x -type f -iname '*preview*' | head -1)
+          if [ -z "$PREV" ]; then PREV=$(find _x -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) -printf '%s %p\n' | sort -rn | head -1 | cut -d' ' -f2-); fi
+          if [ -n "$PREV" ]; then convert "$PREV" -resize 512x512 -background white -gravity center -extent 512x512 preview.jpg; else convert -size 512x512 xc:white -pointsize 26 -gravity center -annotate 0 "$TITLE" preview.jpg; fi
+          rm -rf _x
+          echo "ZSIZE=$(du -h "$SLUG.zip" | cut -f1)" >> "$GITHUB_ENV"
+      - name: docs
+        env:
+          SLUG: ${{ inputs.slug }}
+          TITLE: ${{ inputs.title }}
+          LICENSE: ${{ inputs.license }}
+          AUTHOR: ${{ inputs.author }}
+          PUBLISHED: ${{ inputs.published }}
+          TAGS: ${{ inputs.tags }}
+          SOURCE: ${{ inputs.source }}
+          CREDIT: ${{ inputs.credit }}
+        run: |
+          set -euo pipefail
+          printf '# %s\n\n- 출처 URL: %s\n- 받은 파일: %s.zip (%s)\n- 라이선스: %s\n- 제작자: %s\n- 공개일: %s\n- 파일 수: %s\n- 태그: %s\n- 표기 요구: %s\n- AI 생성 여부: 출처 페이지에 언급 없음\n' "$TITLE" "$SOURCE" "$SLUG" "$ZSIZE" "$LICENSE" "$AUTHOR" "$PUBLISHED" "$FILES" "$TAGS" "$CREDIT" > "$SLUG/pack.md"
+          printf '%s\n\n출처 URL: %s\n표기 라이선스: %s\n제작자: %s\n공개일: %s\n\n이 파일은 수집자가 출처 페이지의 라이선스 표기를 기록한 것입니다.\n원본 배포물에 라이선스 파일이 포함되어 있지 않으면 이 파일이 그 역할을 합니다.\n' "$TITLE" "$SOURCE" "$LICENSE" "$AUTHOR" "$PUBLISHED" > "$SLUG/LICENSE-SOURCE.txt"
+          case "$CREDIT" in
+            yes*) printf '%s\n\n제작자: %s (OpenGameArt.org)\n출처: %s\n라이선스: %s\n\n표기 예:\n"%s" by %s (OpenGameArt.org), %s\n' "$TITLE" "$AUTHOR" "$SOURCE" "$LICENSE" "$TITLE" "$AUTHOR" "$LICENSE" > "$SLUG/CREDITS.txt" ;;
+          esac
+      - name: commit
+        env:
+          TITLE: ${{ inputs.title }}
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add -A
+          git commit -m "에셋: $TITLE 추가"
+          git push
