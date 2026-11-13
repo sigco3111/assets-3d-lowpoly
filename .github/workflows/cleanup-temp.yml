@@ -1,0 +1,21 @@
+name: cleanup-temp
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: remove
+        run: |
+          git rm -q .github/workflows/ingest-pack.yml || true
+          git rm -q .github/workflows/batch-ingest.yml || true
+          git rm -q .github/workflows/credit-fix.yml || true
+          git rm -q .github/workflows/cleanup-temp.yml || true
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add -A
+          git commit -m "임시: A80 에셋 워크플로 삭제"
+          git push
