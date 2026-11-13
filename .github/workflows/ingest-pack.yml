@@ -1,0 +1,12 @@
+name: ingest-pack
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick unzip zip
+      - run: bash .github/scripts/one.sh low-poly-camping-assets https://opengameart.org/sites/default/files/low_poly_camping_assets.zip "Low Poly Camping Assets" CC0 Saraskau 2025-05-03 camping,tent,prop,lowpoly,3d https://opengameart.org/content/low-poly-camping-assets no
+      - run: bash .github/scripts/one.sh low-poly-retro-psx-skeleton https://opengameart.org/sites/default/files/skeleton33.blend "Low-poly Retro PSX Skeleton" "CC-BY 4.0" LonesomeDucky 2025-03-02 skeleton,character,psx,retro,3d https://opengameart.org/content/low-poly-retro-psx-skeleton yes
