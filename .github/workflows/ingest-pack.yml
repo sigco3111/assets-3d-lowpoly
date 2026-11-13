@@ -1,0 +1,54 @@
+name: ingest-pack
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: ImageMagick 설치
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick fonts-dejavu-core
+      - name: 수집
+        run: |
+          set -euo pipefail
+          B=https://opengameart.org/sites/default/files
+          ingest() {
+            D=$1; NAME=$2; SRC=$3; LIC=$4; AUTHOR=$5; DATE=$6; TAGS=$7; ZIP=$8; PV=$9
+            mkdir -p "$D"
+            curl -fsSL -o "$D/$ZIP" "$B/$ZIP"
+            curl -fsSL -o /tmp/pv "$B/$PV"
+            convert /tmp/pv -resize "900x900>" "$D/preview.jpg"
+            SZ=$(du -h "$D/$ZIP" | cut -f1)
+            N=$(unzip -Z1 "$D/$ZIP" | grep -cv '/$')
+            cat > "$D/pack.md" <<EOF
+          # $NAME
+          - 출처 URL: $SRC
+          - 받은 파일: $ZIP ($SZ)
+          - 라이선스: $LIC
+          - 제작자: $AUTHOR
+          - 공개일: $DATE
+          - 파일 수: $N
+          - 태그: $TAGS
+          - 표기 요구: 없음 (CC0)
+          - AI 생성 여부: 출처 페이지에 언급 없음
+          EOF
+            cat > "$D/LICENSE-SOURCE.txt" <<EOF
+          $NAME
+          출처 URL: $SRC
+          표기 라이선스: $LIC
+          제작자: $AUTHOR
+          공개일: $DATE
+          이 파일은 수집자가 출처 페이지의 라이선스 표기를 기록한 것입니다.
+          원본 배포물에 라이선스 파일이 포함되어 있지 않으면 이 파일이 그 역할을 합니다.
+          EOF
+            git add -A
+            git -c user.name=sigco3111 -c user.email=sigco3111@users.noreply.github.com commit -m "에셋: $NAME 추가"
+            git push
+          }
+          ingest cremation-urn "Cremation Urn" https://opengameart.org/content/cremation-urn CC0 ARoachIFoundOnMyPillow 2026-09-06 "pot,pottery,dead,urn,lowpoly,3d" cremation_urn.zip urn_lowpoly.png
+          ingest sumo-arena "Sumo Arena" https://opengameart.org/content/sumo-arena CC0 unForastero 2026-09-18 "japan,arena,building,sumo,lowpoly,3d" sumo_arena_1.zip img1_17.png
+          ingest character-guy-rigged "Character Guy (Rigged)" https://opengameart.org/content/character-guy-rigged CC0 EmoPreben 2026-09-19 "people,character,rigged,humanoid,lowpoly,3d" emopreben_man_model_1.zip skaermbillede_2026-09-19_150650.png
