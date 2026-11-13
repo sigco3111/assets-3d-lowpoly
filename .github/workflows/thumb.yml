@@ -1,0 +1,125 @@
+name: 썸네일 보완 (임시)
+on: push
+permissions:
+  contents: write
+jobs:
+  thumb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 도구 설치
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick unzip
+      - name: 실행
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, re, json, base64, subprocess
+
+          TOKEN = os.environ["GH_TOKEN"]
+          REPO = os.environ["GITHUB_REPOSITORY"]
+          API = "https://api.github.com"
+          ITEMS = [["Modular Dungeon 2 - 3D Models","modular-dungeon-2","previews/modular-dungeon-2-3d-models-2.png"],["Base Human Models (Low Poly)","base-human-models-low-poly","previews/base-human-models-low-poly.png"],["Asian Girl","asian-girl","previews/asian-girl.png"],["Space port kit","space-port-kit","previews/space-port-kit.png"],["Mini Rocket","mini-rocket","previews/mini-rocket.png"],["3D Sara - Wizard","3d-sara-wizard","previews/3d-sara-wizard.png"],["Rail Post","rail-post","previews/rail-post.png"],["Humanoid SoulsLike Animations","humanoid-soulslike-animations","previews/humanoid-soulslike-animations.png"],["B-chan","b-chan","previews/b-chan.png"],["Lock","lock","previews/lock.png"],["Stylized Coin","stylized-coin","previews/stylized-coin.png"],["Dice","dice","previews/dice.png"],["Cremation Urn","cremation-urn","previews/cremation-urn.png"],["Sumo Arena","sumo-arena","previews/sumo-arena.png"],["Character Guy (Rigged)","character-guy-rigged","previews/character-guy-rigged.png"],["Ghost lady model (UNTEXTURED)","ghost-lady-model-untextured","previews/ghost-lady-model-untextured.png"],["Mini Forest","mini-forest","previews/mini-forest-2.png"],["Sofa and Bench","sofa-and-bench","previews/sofa-and-bench.png"],["Shipping Containers","shipping-containers","previews/shipping-containers.png"],["Cast Iron Stove","cast-iron-stove","previews/cast-iron-stove.png"],["Low Poly Penguin (Rigged)","low-poly-penguin-w-skeleton","previews/low-poly-penguin-rigged.png"],["Roulette Wheel and Board","roulette-wheel-and-board","previews/roulette-wheel-and-board.png"],["Low Poly Camping Assets","low-poly-camping-assets","previews/low-poly-camping-assets.png"],["Low-poly Retro PSX Skeleton","low-poly-retro-psx-skeleton","previews/low-poly-retro-psx-skeleton.png"],["Tool Pack 1","tool-pack-1","previews/tool-pack-1.png"],["Toolbox","toolbox","previews/toolbox.png"],["3D Cobblestone Texture","3d-cobblestone-texture","previews/3d-cobblestone-texture.png"]]
+
+          def run(a):
+              return subprocess.run(a, capture_output=True, text=True)
+
+          def api(path, payload=None):
+              cmd = ["curl", "-sS", "--max-time", "120", "-X", ("PUT" if payload else "GET"),
+                     "-H", "Authorization: Bearer " + TOKEN,
+                     "-H", "Accept: application/vnd.github+json", API + path]
+              data = None
+              if payload is not None:
+                  cmd = cmd + ["-H", "Content-Type: application/json", "--data-binary", "@-"]
+                  data = json.dumps(payload)
+              r = subprocess.run(cmd, input=data, capture_output=True, text=True)
+              try:
+                  return json.loads(r.stdout or "{}")
+              except Exception:
+                  return {"_raw": r.stdout[:200]}
+
+          def pick_images(d):
+              exts = (".png", ".jpg", ".jpeg", ".webp", ".bmp", ".gif")
+              found = []
+              for root, dirs, files in os.walk(d):
+                  for f in files:
+                      if not f.lower().endswith(exts):
+                          continue
+                      p = os.path.join(root, f)
+                      try:
+                          sz = os.path.getsize(p)
+                      except OSError:
+                          sz = 0
+                      pri = 1 if re.search("preview|render|screenshot|thumb", f, re.I) else 0
+                      found.append((pri, sz, p))
+              found.sort(reverse=True)
+              return [p for _, _, p in found[:4]]
+
+          def make_thumb(srcs, out):
+              if len(srcs) == 1:
+                  run(["convert", srcs[0] + "[0]", "-resize", "480x480>", "-strip", "png24:" + out])
+              else:
+                  run(["montage"] + [s + "[0]" for s in srcs] + ["-background", "none", "-tile", "2x2",
+                       "-geometry", "240x240+4+4", "-strip", "png24:" + out])
+              if not os.path.exists(out) or os.path.getsize(out) == 0:
+                  return None
+              if os.path.getsize(out) <= 200000:
+                  return out
+              jpg = out[:-4] + ".jpg"
+              run(["convert", out, "-strip", "-quality", "85", jpg])
+              os.remove(out)
+              if os.path.exists(jpg) and os.path.getsize(jpg) <= 200000:
+                  return jpg
+              if os.path.exists(jpg):
+                  run(["convert", jpg, "-resize", "320x320>", "-strip", "-quality", "80", jpg])
+                  if os.path.getsize(jpg) <= 200000:
+                      return jpg
+              return None
+
+          made = []
+          skip = []
+          bad = []
+          for name, folder, target in ITEMS:
+              if not os.path.isdir(folder):
+                  bad.append(name + " | 폴더 없음")
+                  continue
+              if os.path.exists(target):
+                  skip.append(name)
+                  continue
+              srcs = []
+              for fn in ("preview.jpg", "preview.png", "preview.jpeg", "screenshot.png"):
+                  p = os.path.join(folder, fn)
+                  if os.path.isfile(p):
+                      srcs = [p]
+                      break
+              if not srcs:
+                  zips = [os.path.join(folder, f) for f in os.listdir(folder) if f.lower().endswith(".zip")]
+                  if zips:
+                      ex = os.path.join("/tmp", folder)
+                      os.makedirs(ex, exist_ok=True)
+                      run(["unzip", "-qq", "-o", zips[0], "-d", ex])
+                      srcs = pick_images(ex)
+              if not srcs:
+                  bad.append(name + " | 이미지 없음")
+                  continue
+              out = "/tmp/" + re.sub(r"[^0-9a-z]+", "-", name.lower()) + ".png"
+              got = make_thumb(srcs, out)
+              if not got:
+                  bad.append(name + " | 생성 실패")
+                  continue
+              if got.endswith(".jpg") and target.endswith(".png"):
+                  target = target[:-4] + ".jpg"
+              data = open(got, "rb").read()
+              r = api("/repos/" + REPO + "/contents/" + target, {"message": "썸네일: " + name + " 추가",
+                      "branch": "main", "content": base64.b64encode(data).decode()})
+              sha = (r.get("commit") or {}).get("sha", "")[:8]
+              if sha:
+                  made.append(name + " | " + target + " | " + sha)
+              else:
+                  made.append(name + " | " + target + " | ERR " + json.dumps(r)[:120])
+
+          print("made", len(made))
+          for x in made: print("-", x)
+          print("skip", len(skip), skip)
+          print("bad", len(bad), bad)
+          PY
