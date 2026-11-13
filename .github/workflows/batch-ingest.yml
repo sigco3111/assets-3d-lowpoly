@@ -1,0 +1,44 @@
+name: batch-ingest
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick unzip >/dev/null
+      - name: ingest
+        run: |
+          set -uo pipefail
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          run_one() {
+            SLUG=$1; TITLE=$2; URL=$3; LIC=$4; AUTHOR=$5; PUB=$6; TAGS=$7; SRC=$8; CREDIT=$9
+            echo "== $SLUG"
+            mkdir -p "$SLUG"
+            curl -fsSL --retry 3 -o "$SLUG/$SLUG.zip" "$URL" || { echo "DOWNLOAD FAIL $SLUG"; return 1; }
+            rm -rf _x && mkdir _x
+            unzip -qo "$SLUG/$SLUG.zip" -d _x || true
+            N=$(find _x -type f | wc -l)
+            PREV=$(find _x -type f -iname '*preview*' | head -1)
+            if [ -z "$PREV" ]; then PREV=$(find _x -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) -printf '%s %p\n' | sort -rn | head -1 | cut -d' ' -f2-); fi
+            if [ -n "$PREV" ]; then convert "$PREV" -resize 512x512 -background white -gravity center -extent 512x512 "$SLUG/preview.jpg"; else convert -size 512x512 xc:white -pointsize 26 -gravity center -annotate 0 "$TITLE" "$SLUG/preview.jpg"; fi
+            rm -rf _x
+            ZSIZE=$(du -h "$SLUG/$SLUG.zip" | cut -f1)
+            printf '# %s\n\n- 출처 URL: %s\n- 받은 파일: %s.zip (%s)\n- 라이선스: %s\n- 제작자: %s\n- 공개일: %s\n- 파일 수: %s\n- 태그: %s\n- 표기 요구: %s\n- AI 생성 여부: 출처 페이지에 언급 없음\n' "$TITLE" "$SRC" "$SLUG" "$ZSIZE" "$LIC" "$AUTHOR" "$PUB" "$N" "$TAGS" "$CREDIT" > "$SLUG/pack.md"
+            printf '%s\n\n출처 URL: %s\n표기 라이선스: %s\n제작자: %s\n공개일: %s\n\n이 파일은 수집자가 출처 페이지의 라이선스 표기를 기록한 것입니다.\n원본 배포물에 라이선스 파일이 포함되어 있지 않으면 이 파일이 그 역할을 합니다.\n' "$TITLE" "$SRC" "$LIC" "$AUTHOR" "$PUB" > "$SLUG/LICENSE-SOURCE.txt"
+            case "$CREDIT" in
+              yes*) printf '%s\n\n제작자: %s (OpenGameArt.org)\n출처: %s\n라이선스: %s\n\n표기 예:\n"%s" by %s (OpenGameArt.org), %s\n' "$TITLE" "$AUTHOR" "$SRC" "$LIC" "$TITLE" "$AUTHOR" "$LIC" > "$SLUG/CREDITS.txt" ;;
+            esac
+            git add -A
+            git commit -m "에셋: $TITLE 추가"
+            git push
+          }
+          run_one city-kit-roads "City Kit (Roads)" "https://opengameart.org/sites/default/files/kenney_city-kit-roads_2.2.zip" "CC0" "Kenney" "2026-08-18" "city, road, kit, modular, 3d, kenney" "https://opengameart.org/content/city-kit-roads" "없음 (CC0)"
+          run_one ghost-lady-model-untextured "Ghost lady model (UNTEXTURED)" "https://opengameart.org/sites/default/files/ghost.zip" "CC-BY 4.0" "Kabrolkin" "2026-08-10" "ghost, character, untextured, 3d" "https://opengameart.org/content/ghost-lady-model-untextured" "있음 (CC-BY 4.0) — CREDITS.txt 참조"
+          git log --oneline -5
